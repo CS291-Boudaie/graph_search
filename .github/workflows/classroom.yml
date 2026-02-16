@@ -1,0 +1,157 @@
+name: Autograding Tests
+'on': push
+permissions:
+  checks: write
+  actions: read
+  contents: read
+jobs:
+  run-autograding-tests:
+    runs-on: ubuntu-latest
+    if: github.actor != 'github-classroom[bot]'
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      # ============================================================
+      # Tier 1: Correctness (~50%)
+      # Any valid path from start to goal
+      # ============================================================
+
+      - name: BFS Correctness
+        id: bfs-correctness
+        uses: classroom-resources/autograding-command-grader@v1
+        with:
+          test-name: BFS Correctness
+          setup-command: pip install -r requirements.txt
+          command: python -m unittest -k "bfs_1_Correctness" test_student_algos
+          timeout: 30
+          max-score: 10
+
+      - name: DFS Correctness
+        id: dfs-correctness
+        uses: classroom-resources/autograding-command-grader@v1
+        with:
+          test-name: DFS Correctness
+          setup-command: pip install -r requirements.txt
+          command: python -m unittest -k "dfs_1_Correctness" test_student_algos
+          timeout: 30
+          max-score: 10
+
+      - name: Dijkstra Correctness
+        id: dijkstra-correctness
+        uses: classroom-resources/autograding-command-grader@v1
+        with:
+          test-name: Dijkstra Correctness
+          setup-command: pip install -r requirements.txt
+          command: python -m unittest -k "dijkstra_1_Correctness" test_student_algos
+          timeout: 30
+          max-score: 15
+
+      - name: A* Correctness
+        id: astar-correctness
+        uses: classroom-resources/autograding-command-grader@v1
+        with:
+          test-name: A* Correctness
+          setup-command: pip install -r requirements.txt
+          command: python -c "import unittest; loader = unittest.TestLoader(); suite = loader.loadTestsFromName('test_student_algos'); filtered = unittest.TestSuite(t for ts in suite for t in ts if 'astar' in str(t) and '1_Correctness' in str(t)); runner = unittest.TextTestRunner(verbosity=2); result = runner.run(filtered); exit(0 if result.wasSuccessful() else 1)"
+          timeout: 30
+          max-score: 15
+
+      # ============================================================
+      # Tier 2: Optimal Cost (~30% additional, cumulative ~80%)
+      # Path has the optimal cost
+      # ============================================================
+
+      - name: BFS Cost
+        id: bfs-cost
+        uses: classroom-resources/autograding-command-grader@v1
+        with:
+          test-name: BFS Cost
+          setup-command: pip install -r requirements.txt
+          command: python -m unittest -k "bfs_2_Cost" test_student_algos
+          timeout: 30
+          max-score: 5
+
+      - name: DFS Cost
+        id: dfs-cost
+        uses: classroom-resources/autograding-command-grader@v1
+        with:
+          test-name: DFS Cost
+          setup-command: pip install -r requirements.txt
+          command: python -m unittest -k "dfs_2_Cost" test_student_algos
+          timeout: 30
+          max-score: 5
+
+      - name: Dijkstra Cost
+        id: dijkstra-cost
+        uses: classroom-resources/autograding-command-grader@v1
+        with:
+          test-name: Dijkstra Cost
+          setup-command: pip install -r requirements.txt
+          command: python -m unittest -k "dijkstra_2_Cost" test_student_algos
+          timeout: 30
+          max-score: 10
+
+      - name: A* Cost
+        id: astar-cost
+        uses: classroom-resources/autograding-command-grader@v1
+        with:
+          test-name: A* Cost
+          setup-command: pip install -r requirements.txt
+          command: python -c "import unittest; loader = unittest.TestLoader(); suite = loader.loadTestsFromName('test_student_algos'); filtered = unittest.TestSuite(t for ts in suite for t in ts if 'astar' in str(t) and '2_Cost' in str(t)); runner = unittest.TextTestRunner(verbosity=2); result = runner.run(filtered); exit(0 if result.wasSuccessful() else 1)"
+          timeout: 30
+          max-score: 10
+
+      # ============================================================
+      # Tier 3: Efficiency (~20% additional, cumulative 100%)
+      # Correct unique explored count and efficient total explorations
+      # ============================================================
+
+      - name: Unique Explored
+        id: unique-explored
+        uses: classroom-resources/autograding-command-grader@v1
+        with:
+          test-name: Unique Explored
+          setup-command: pip install -r requirements.txt
+          command: python -m unittest -k "3_UniqueExplored" test_student_algos
+          timeout: 30
+          max-score: 10
+
+      - name: Efficiency
+        id: efficiency
+        uses: classroom-resources/autograding-command-grader@v1
+        with:
+          test-name: Efficiency
+          setup-command: pip install -r requirements.txt
+          command: python -m unittest -k "4_Efficiency" test_student_algos
+          timeout: 30
+          max-score: 10
+
+      # ============================================================
+      # Autograding Reporter
+      # ============================================================
+      - name: Autograding Reporter
+        uses: classroom-resources/autograding-grading-reporter@v1
+        env:
+          BFS-CORRECTNESS_RESULTS: "${{steps.bfs-correctness.outputs.result}}"
+          DFS-CORRECTNESS_RESULTS: "${{steps.dfs-correctness.outputs.result}}"
+          DIJKSTRA-CORRECTNESS_RESULTS: "${{steps.dijkstra-correctness.outputs.result}}"
+          ASTAR-CORRECTNESS_RESULTS: "${{steps.astar-correctness.outputs.result}}"
+          BFS-COST_RESULTS: "${{steps.bfs-cost.outputs.result}}"
+          DFS-COST_RESULTS: "${{steps.dfs-cost.outputs.result}}"
+          DIJKSTRA-COST_RESULTS: "${{steps.dijkstra-cost.outputs.result}}"
+          ASTAR-COST_RESULTS: "${{steps.astar-cost.outputs.result}}"
+          UNIQUE-EXPLORED_RESULTS: "${{steps.unique-explored.outputs.result}}"
+          EFFICIENCY_RESULTS: "${{steps.efficiency.outputs.result}}"
+        with:
+          runners: >
+            bfs-correctness,
+            dfs-correctness,
+            dijkstra-correctness,
+            astar-correctness,
+            bfs-cost,
+            dfs-cost,
+            dijkstra-cost,
+            astar-cost,
+            unique-explored,
+            efficiency
