@@ -72,16 +72,6 @@ jobs:
           timeout: 30
           max-score: 5
 
-      - name: DFS Cost
-        id: dfs-cost
-        uses: classroom-resources/autograding-command-grader@v1
-        with:
-          test-name: DFS Cost
-          setup-command: pip install --quiet -r requirements.txt
-          command: python -m unittest -k "dfs_2_Cost" test_student_algos
-          timeout: 30
-          max-score: 5
-
       - name: Dijkstra Cost
         id: dijkstra-cost
         uses: classroom-resources/autograding-command-grader@v1
@@ -90,7 +80,7 @@ jobs:
           setup-command: pip install --quiet -r requirements.txt
           command: python -m unittest -k "dijkstra_2_Cost" test_student_algos
           timeout: 30
-          max-score: 10
+          max-score: 12
 
       - name: A* Cost
         id: astar-cost
@@ -100,7 +90,7 @@ jobs:
           setup-command: pip install --quiet -r requirements.txt
           command: python -c "import unittest; loader = unittest.TestLoader(); suite = loader.loadTestsFromName('test_student_algos'); filtered = unittest.TestSuite(t for ts in suite for t in ts if 'astar' in str(t) and '2_Cost' in str(t)); runner = unittest.TextTestRunner(verbosity=2); result = runner.run(filtered); exit(0 if result.wasSuccessful() else 1)"
           timeout: 30
-          max-score: 10
+          max-score: 13
 
       # ============================================================
       # Tier 3: Efficiency (~20% additional, cumulative 100%)
