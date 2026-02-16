@@ -1,4 +1,10 @@
 import networkx as nx
+try:
+    import answers as student_algos
+except ImportError:
+    import student_algos
+
+import inspect
 
 class Graph(nx.Graph):
     """
@@ -37,7 +43,10 @@ class Graph(nx.Graph):
 
     # ---------- OVERRIDES ----------
     def __getitem__(self, node):
-        self._record(node)
+        # self._record(node)
+        parent = inspect.stack()[1][3]
+        if parent in ['bfs', 'dfs', 'dijstra', 'astar']:
+            raise Exception("You are using the [] operator on a graph, which is not allowed. Use g.neighbors(node) instead.")
         return super().__getitem__(node)
 
     def neighbors(self, node):

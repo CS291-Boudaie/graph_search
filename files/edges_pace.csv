@@ -1,0 +1,795 @@
+source,target,source_id,target_id,weight
+Node 0,Broadway / John St / Lexington Avenue Line,0,1,226.57936108350393
+8 Avenue Line / Church St / Murray St,Node 3,2,3,240.41063820095917
+Beekman St / Clark Street Line / Park Row [4],Beekman St / Clark Street Line / Theater Aly,4,5,169.23912188182686
+8 Avenue Line / Dutch St / Fulton St,8 Avenue Line / Fulton St / Nassau St,6,7,229.96422783914167
+Ann St / Clark Street Line / William St,Ann St & Gold St,8,9,315.87708275191835
+Park Row (midblock) [10],Brooklyn Brg / Park Row / Spruce St,10,11,31.51922395823231
+2000 Cb Boundary & Brooklyn Bridge Exit Ramp [12],2000 Cb Boundary & Brooklyn Bridge Exit Ramp [13],12,13,19.675453683745104
+2000 Cb Boundary & Brooklyn Bridge Exit Ramp [13],Node 14,13,14,27.208084410447505
+Node 14,Node 15,14,15,18.497890492188834
+Node 15,Node 16,15,16,18.53668731275665
+Node 16,2000 Cb Boundary & Brooklyn Bridge Exit Ramp [17],16,17,18.837515910739874
+2000 Cb Boundary & Brooklyn Bridge Exit Ramp [17],2000 Cb Boundary & Brooklyn Bridge Exit Ramp [18],17,18,16.17881605408673
+2000 Cb Boundary & Brooklyn Bridge Exit Ramp [18],2000 Cb Boundary & Brooklyn Bridge Exit Ramp [19],18,19,12.074730210309388
+Brooklyn Bridge Exit Ramp (midblock) [20],Brooklyn Bridge Exit Ramp (midblock) [21],20,21,4.966172760981902
+Brooklyn Bridge Exit Ramp (midblock) [21],Brooklyn Bridge Exit Ramp (midblock) [22],21,22,4.9661727456189855
+Brooklyn Bridge Exit Ramp (midblock) [22],Brooklyn Bridge Exit Ramp (midblock) [23],22,23,4.966172761408864
+Brooklyn Bridge Exit Ramp (midblock) [23],Brooklyn Bridge Exit Ramp (midblock) [24],23,24,4.966172735192956
+Brooklyn Bridge Exit Ramp (midblock) [24],Brooklyn Bridge Exit Ramp (midblock) [25],24,25,4.9661727466959995
+Brooklyn Bridge Exit Ramp (midblock) [25],Brooklyn Bridge Exit Ramp (midblock) [26],25,26,4.966172761600288
+Brooklyn Bridge Exit Ramp (midblock) [26],Brooklyn Bridge Exit Ramp (midblock) [27],26,27,4.966172735162672
+Brooklyn Bridge Exit Ramp (midblock) [27],Brooklyn Bridge Exit Ramp (midblock) [28],27,28,4.9661727541730665
+Brooklyn Bridge Exit Ramp (midblock) [28],Node 29,28,29,4.966172736700003
+Node 29,Node 30,29,30,4.966172762392312
+Node 30,Node 31,30,31,4.966172752755401
+Node 31,Node 32,31,32,4.96617273259388
+Node 32,Node 33,32,33,4.966172748651599
+Node 33,2000 Cb Boundary / Brooklyn Bridge Exit Ramp / Fdr Drive Nb En Brooklyn Br,33,34,48.41264382050051
+Brooklyn Bridge Entrance Ramp & Frankfort St [35],Brooklyn Bridge Entrance Ramp & Gold St [36],35,36,41.52510371489906
+2 Avenue Line / Dover St / Fdr Drive Exit 2 Nb,2 Avenue Line / Brooklyn Bridge En Rp Fdr Dr / Pearl St,37,38,17.956040508230178
+2000 Cb Boundary / Brooklyn Brg / Brooklyn Bridge Pedestrian Path [39],Brooklyn Brg & Rose St,39,40,22.24655302433993
+2000 Cb Boundary & Brooklyn Bridge Exit Ramp [41],2000 Cb Boundary & Brooklyn Bridge Exit Ramp [42],41,42,19.36871462371753
+2000 Cb Boundary & Brooklyn Bridge Exit Ramp [42],2000 Cb Boundary & Brooklyn Bridge Exit Ramp [43],42,43,14.55786044303431
+2000 Cb Boundary & Brooklyn Bridge Exit Ramp [43],Node 44,43,44,16.901022397282805
+Node 44,Node 45,44,45,12.810702387277924
+Node 45,Node 46,45,46,14.991517115490913
+Node 46,Node 47,46,47,15.419867249071343
+Node 47,Node 48,47,48,17.83031405482385
+Node 48,Node 49,48,49,20.927504618564203
+Node 49,Park Row (midblock) [50],49,50,17.371857804877553
+Park Row (midblock) [50],Park Row (midblock) [51],50,51,40.14316098763367
+Park Row (midblock) [51],Brooklyn Bridge Exit Ramp & Park Row [52],51,52,48.804978533673335
+Brooklyn Bridge Exit Ramp & Park Row [52],Brooklyn Bridge Exit Ramp & Park Row [53],52,53,3.028992241206137
+Ann St / Broadway / Lexington Avenue Line,Park Row (midblock) [55],54,55,71.27272512912236
+Frankfort St / Gold St / Rose St,Frankfort St & Rose St,56,57,12.346084887900988
+2000 Cb Boundary / Brooklyn Brg / Brooklyn Bridge Pedestrian Path [58],Brooklyn Brg / Brooklyn Bridge Pedestrian Path / Park Row [59],58,59,146.02180034921642
+Frankfort St & Gold St [60],Frankfort St (midblock) [61],60,61,83.02256273105685
+2 Avenue Line / Brooklyn Brg / Pearl St [62],Brooklyn Brg / Brooklyn Bridge Pedestrian Path / Fdr Drive Entry Ramp [63],62,63,78.95410431253396
+Brooklyn Bridge Entrance Ramp & Ct Boundary,Brooklyn Brg / Brooklyn Bridge Entrance Ramp / Rose St [65],64,65,70.19244034397704
+Brooklyn Brg / Brooklyn Bridge Entrance Ramp / Rose St [65],Brooklyn Brg / Brooklyn Bridge Entrance Ramp / Rose St [66],65,66,18.49292917494961
+Brooklyn Brg / Brooklyn Bridge Entrance Ramp / Rose St [66],2000 Cb Boundary & Brooklyn Brg [67],66,67,16.336040011495427
+Brooklyn Brg & Park Row [68],Brooklyn Brg & Park Row [69],68,69,40.87370425387031
+Brooklyn Brg & Park Row [70],Brooklyn Brg (midblock) [71],70,71,21.77930013403012
+2 Avenue Line / Brooklyn Brg / Pearl St [72],Brooklyn Brg & Fdr Drive Entry Ramp,72,73,26.005342727179816
+Brooklyn Brg (midblock) [74],Brooklyn Brg (midblock) [75],74,75,77.64219429265258
+Brooklyn Brg (midblock) [76],Brooklyn Brg (midblock) [77],76,77,37.87444179511486
+2000 Cb Boundary & Brooklyn Bridge Exit Ramp [78],Brooklyn Bridge Exit Ramp & Rose St [79],78,79,31.87623324860854
+Maiden Ln / Nassau St / Nassau Street Line,Node 81,80,81,920.9272065049995
+Maiden Ln / Nassau St / Nassau Street Line,John St / Nassau St / Nassau Street Line,80,82,220.4872652792522
+Node 83,8 Avenue Line / Fulton St / Ryders Aly,83,84,215.1551496413018
+Beekman St & William St,2010 Cb Boundary / Beekman St / Gold St,85,86,343.26559419554366
+2000 Cb Boundary / Centre St / Lexington Avenue Line [87],Park Row (midblock) [88],87,88,45.71186025690406
+Park Row (midblock) [88],Node 89,88,89,46.05316945665814
+Node 89,Node 90,89,90,46.16298375065726
+Node 90,Node 91,90,91,46.052256142631066
+Node 91,Brooklyn Brg / Brooklyn Bridge Pedestrian Path / Centre St [92],91,92,45.712667831198694
+Brooklyn Bridge Exit Ramp & Park Row [93],Brooklyn Bridge Exit Ramp & Park Row [94],93,94,13.371608556894579
+2010 Cb Boundary / Beekman St / Gold St,District Boundary / Gold St / Spruce St,86,95,486.4953309372334
+2000 Cb Boundary / Centre St / Lexington Avenue Line [96],2000 Cb Boundary / Centre St / Chambers St,96,97,141.38492097278433
+Brooklyn Bridge Entrance Ramp & Gold St [36],Frankfort St & Gold St [60],36,60,22.468421708256077
+1990 Ct Boundary / Centre St / Lafayette St,Duane St / Lafayette St / Lexington Avenue Line,98,99,192.12392904406602
+2000 Cb Boundary / Brooklyn Bridge Exit Ramp / Fdr Drive Nb En Brooklyn Br,Ave Of The Finest / Madison St / Rose St,34,100,58.73173335137007
+2 Avenue Line / Dover St / Fdr Drive Exit 2 Nb,Node 101,37,101,695.2479144041047
+2000 Cb Boundary & Pearl St,Node 103,102,103,306.35049332093763
+1990 Ct Boundary / Centre St / Lafayette St,Centre St / Duane St / St Andrews Plz,98,104,181.28973201075763
+Elk St & Reade St [105],Node 106,105,106,231.3657527161088
+Lexington Avenue Line & Park Row [107],Park Row (midblock) [108],107,108,33.96810148572857
+Frankfort St (midblock) [109],Ct Boundary & Frankfort St,109,110,20.0642550625804
+Frankfort St (midblock) [111],Frankfort St (midblock) [112],111,112,31.34955518856936
+Brooklyn Brg & Rose St,2000 Cb Boundary & Brooklyn Brg [113],40,113,19.558889028779152
+Brooklyn Brg (midblock) [114],Brooklyn Brg & Brooklyn Bridge Exit Ramp [115],114,115,378.4742748668622
+Brooklyn Brg / Brooklyn Bridge Pedestrian Path / Fdr Drive Entry Ramp [63],Brooklyn Brg / Brooklyn Bridge Pedestrian Path / Fdr Drive Entry Ramp [116],63,116,33.57434938178946
+Frankfort St & Park Row [117],Frankfort St & Park Row [118],117,118,20.671113826072844
+Frankfort St & Park Row [118],Brooklyn Brg (midblock) [119],118,119,65.33551597694917
+Brooklyn Brg (midblock) [119],Node 120,119,120,116.72572754754145
+Node 120,Node 121,120,121,18.313838227619073
+Node 121,Node 122,121,122,18.313838219795073
+Node 122,Node 123,122,123,18.31383822515126
+Node 123,Node 124,123,124,18.31383821954744
+Node 124,Brooklyn Brg & Park Row [125],124,125,18.313838220656663
+Brooklyn Brg & Park Row [125],Brooklyn Brg & Park Row [126],125,126,18.313838206017124
+Brooklyn Brg & Park Row [68],Brooklyn Brg & Park Row [126],68,126,18.313838217331515
+Brooklyn Brg / Brooklyn Bridge Pedestrian Path / Park Row [127],Brooklyn Brg & Brooklyn Bridge Pedestrian Path [128],127,128,177.08094908660183
+Brooklyn Brg / Brooklyn Bridge Pedestrian Path / Centre St [92],Brooklyn Brg & Brooklyn Bridge Pedestrian Path [129],92,129,72.17354786057015
+Brooklyn Brg & Brooklyn Bridge Exit Ramp [115],2 Avenue Line / 2000 Cb Boundary / Brooklyn Brg,115,130,109.25224854714327
+Broadway / John St / Lexington Avenue Line,John St / Nassau St / Nassau Street Line,1,82,426.04350899119265
+8 Avenue Line / Fulton St / Nassau St,John St / Nassau St / Nassau Street Line,7,82,313.29352745580553
+Node 131,Liberty St / Nassau St / Nassau Street Line,131,132,446.12351574605634
+Beekman St / Clark Street Line / Theater Aly,Ann St & Theater Aly,5,133,748.1217809938764
+8 Avenue Line / Fulton St / Nassau St,8 Avenue Line / Broadway / Fulton St,7,134,438.60683042102244
+Ann St / Clark Street Line / William St,Ann St / Nassau St / Nassau Street Line,8,135,431.0991393974723
+Frankfort St & Park Row [117],2000 Cb Boundary / Nassau Street Line / Park Row [136],117,136,10.578261568554362
+2000 Cb Boundary / Brooklyn Brg / Brooklyn Bridge Pedestrian Path [39],2000 Cb Boundary / Brooklyn Brg / Brooklyn Bridge Pedestrian Path [137],39,137,155.57561775767127
+2000 Cb Boundary / Brooklyn Bridge Exit Ramp / Fdr Drive Nb En Brooklyn Br,Brooklyn Bridge Exit Ramp & Rose St [138],34,138,107.04868484269136
+Duane St / Lafayette St / Lexington Avenue Line,1990 Ct Boundary & Duane St,99,139,65.79807069661177
+Ave Of The Finest / Madison St / Rose St,Node 140,100,140,44.944809642355914
+Node 140,Node 141,140,141,44.9448096396016
+Node 141,Node 142,141,142,44.944809624843494
+Node 142,Node 143,142,143,44.94480964226649
+Node 143,Node 144,143,144,44.944809637601935
+Node 144,Node 145,144,145,44.94480962458627
+Node 145,Node 146,145,146,44.94480964221859
+Node 146,Node 147,146,147,44.94478803497923
+Node 147,Node 148,147,148,44.944788033242844
+Node 148,Node 149,148,149,44.94478802720183
+Node 149,Node 150,149,150,44.94478803894537
+Node 150,Node 151,150,151,44.94478801711178
+Node 151,Node 152,151,152,44.944788037145514
+Node 152,Node 153,152,153,44.94478802995163
+Ave Of The Finest / Madison St / Rose St,2000 Cb Boundary / Ave Of The Finest / Brooklyn Bridge Exit Ramp [154],100,154,189.95531298905502
+Brooklyn Bridge Entrance Ramp & Frankfort St [35],Brooklyn Bridge Entrance Ramp & Frankfort St [155],35,155,22.32102292964485
+Ct Boundary & Frankfort St,Brooklyn Bridge Entrance Ramp & Frankfort St [156],110,156,260.78163180575336
+Brooklyn Brg & Rose St,2000 Cb Boundary & Brooklyn Brg [157],40,157,150.82141468865592
+Elk St & Reade St [105],Elk St & Reade St [158],105,158,21.68661390385237
+Cardinal Hayes Pl & Pearl St,Node 160,159,160,184.53075788650503
+2 Avenue Line / 2000 Cb Boundary / Brooklyn Brg,Brooklyn Brg & Brooklyn Bridge Pedestrian Path [161],130,161,70.75639458387576
+Park Row (midblock) [108],Park Row (midblock) [162],108,162,69.99755547166836
+Frankfort St / Gold St / Rose St,Frankfort St & Gold St [60],56,60,14.833245320256905
+Ct Boundary & Frankfort St,Frankfort St (midblock) [163],110,163,25.989413871297536
+Brooklyn Bridge Entrance Ramp & Frankfort St [155],Brooklyn Bridge Entrance Ramp & Frankfort St [164],155,164,24.966414999674278
+Frankfort St (midblock) [112],Frankfort St & Gold St [165],112,165,84.94397568825994
+Brooklyn Bridge Entrance Ramp & Frankfort St [35],Frankfort St (midblock) [166],35,166,24.396353617720017
+2 Avenue Line / Brooklyn Brg / Pearl St [62],Node 167,62,167,75.51708472783382
+Brooklyn Brg (midblock) [168],Brooklyn Brg & Ct Boundary,168,169,26.49926967875261
+Brooklyn Brg & Fdr Drive Entry Ramp,2 Avenue Line / Brooklyn Bridge En Rp Pearl St / Fdr Drive Entry Ramp,73,170,34.66078517012452
+Brooklyn Brg / Brooklyn Bridge Entrance Ramp / Brooklyn Bridge Pedestrian Path,Brooklyn Brg & Brooklyn Bridge Pedestrian Path [172],171,172,419.04693718546525
+Brooklyn Brg / Brooklyn Bridge Pedestrian Path / Centre St [173],Brooklyn Brg / Brooklyn Bridge Pedestrian Path / Centre St [174],173,174,35.08322252723927
+Brooklyn Brg / Brooklyn Bridge Pedestrian Path / Centre St [174],Node 175,174,175,48.41751737080638
+Node 175,2010 Cb Boundary & Brooklyn Brg,175,176,59.08833427147635
+2000 Cb Boundary & Brooklyn Bridge Exit Ramp [78],Brooklyn Brg & Brooklyn Bridge Exit Ramp [177],78,177,196.83159338580907
+2000 Cb Boundary / Brooklyn Bridge Exit Ramp / Fdr Drive Nb En Brooklyn Br,2000 Cb Boundary & Fdr Drive Nb En Brooklyn Br [178],34,178,78.47427705838349
+Liberty St / Nassau St / Nassau Street Line,Node 179,132,179,662.2847392238043
+8 Avenue Line / Barclay St / Church St,8 Avenue Line / Church St / Clark Street Line,180,181,224.93795003495117
+8 Avenue Line / Barclay St / Church St,Barclay St / Broadway / Broadway Line,180,182,1019.4139602921048
+Node 183,Clark Street Line / John St / William St,183,184,165.64985779211844
+8 Avenue Line / Church St / Murray St,2000 Cb Boundary / Broadway / Broadway Line,2,185,520.9636657185204
+Frankfort St & Gold St [165],Frankfort St & Gold St [186],165,186,12.001383902799766
+Frankfort St & Gold St [186],Frankfort St (midblock) [187],186,187,167.07905553906622
+2 Avenue Line / Pearl St / Peck Slip,Node 189,188,189,534.754073645731
+2 Avenue Line / Brooklyn Brg / Pearl St [72],2 Avenue Line / 2000 Cb Boundary / Brooklyn Brg,72,130,23.8133859217207
+Park Row (midblock) [190],Node 191,190,191,63.80315282641829
+Node 191,Node 192,191,192,12.389975423411496
+Node 192,Node 193,192,193,12.389975367756515
+Node 193,Node 194,193,194,12.389975437707319
+Node 194,Node 195,194,195,12.38997542031626
+Node 195,Node 196,195,196,12.389975393706392
+Node 196,Node 197,196,197,12.389975418653467
+Node 197,Node 198,197,198,12.389975389752529
+Node 198,Brooklyn Brg & Park Row [199],198,199,12.389975406806556
+Brooklyn Brg & Park Row [199],Brooklyn Brg & Park Row [200],199,200,12.389975387549063
+Brooklyn Brg & Park Row [200],Brooklyn Brg & Park Row [201],200,201,12.389975437787978
+Brooklyn Brg & Park Row [70],Brooklyn Brg & Park Row [201],70,201,12.389975389720487
+Node 202,2010 Cb Boundary / 8 Avenue Line / District Boundary,202,203,152.4193905792598
+Brooklyn Brg (midblock) [75],Brooklyn Brg (midblock) [204],75,204,18.334116082677777
+2 Avenue Line / Brooklyn Brg / Pearl St [72],Brooklyn Brg (midblock) [204],72,204,19.047604309727145
+Park Row (midblock) [55],Connector & Park Row [205],55,205,220.26451360704633
+2000 Cb Boundary / Centre St / Lexington Avenue Line [87],Centre St / Lexington Avenue Line / Park Row,87,206,51.30697033532312
+Brooklyn Bridge Entrance Ramp (midblock) [207],Brooklyn Bridge Entrance Ramp (midblock) [208],207,208,5.998521488191766
+Brooklyn Bridge Entrance Ramp (midblock) [208],Brooklyn Bridge Entrance Ramp (midblock) [209],208,209,5.998521527197678
+Brooklyn Bridge Entrance Ramp (midblock) [209],Brooklyn Bridge Entrance Ramp (midblock) [210],209,210,5.9985215171105075
+Brooklyn Bridge Entrance Ramp (midblock) [210],Brooklyn Bridge Entrance Ramp (midblock) [211],210,211,5.9985215226853414
+Brooklyn Bridge Entrance Ramp (midblock) [211],Brooklyn Bridge Entrance Ramp (midblock) [212],211,212,5.998521520568766
+Brooklyn Bridge Entrance Ramp (midblock) [212],Brooklyn Bridge Entrance Ramp (midblock) [213],212,213,5.9985215097608355
+Brooklyn Bridge Entrance Ramp (midblock) [213],Node 214,213,214,5.99852151742912
+Node 214,Node 215,214,215,5.9985215098839975
+Node 215,Node 216,215,216,5.998521511259683
+Node 216,Node 217,216,217,5.998521507891471
+Node 217,Node 218,217,218,5.9985215258884015
+Node 218,Node 219,218,219,5.998521498382446
+Node 219,Node 220,219,220,5.998521526597308
+Node 220,Node 221,220,221,5.998521514778576
+Node 221,Node 222,221,222,5.998521514005789
+Node 222,Node 223,222,223,5.99852810773076
+Node 223,Node 224,223,224,5.998528108678668
+Node 224,Node 225,224,225,5.998528094450895
+Node 225,Node 226,225,226,5.998528107730511
+Node 226,Node 227,226,227,5.998528108568216
+Node 227,Node 228,227,228,5.998528107327132
+Node 228,Node 229,228,229,5.998528099324626
+Node 229,Node 230,229,230,5.998528100341539
+Node 230,Brooklyn Bridge Entrance Ramp & Frankfort St [231],230,231,5.998528113315374
+Brooklyn Bridge Entrance Ramp & Frankfort St [231],Brooklyn Bridge Entrance Ramp & Frankfort St [232],231,232,5.998528106532827
+Brooklyn Bridge Entrance Ramp & Frankfort St [232],Brooklyn Bridge Entrance Ramp & Frankfort St [233],232,233,5.998528109961044
+Brooklyn Bridge Entrance Ramp & Frankfort St [233],Brooklyn Bridge Entrance Ramp & Frankfort St [234],233,234,5.998528095257639
+Brooklyn Bridge Entrance Ramp & Frankfort St [234],Brooklyn Bridge Entrance Ramp & Frankfort St [235],234,235,5.998528094454482
+Brooklyn Bridge Entrance Ramp & Frankfort St [235],Brooklyn Bridge Entrance Ramp & Frankfort St [236],235,236,5.998528116794445
+Brooklyn Bridge Entrance Ramp & Frankfort St [156],Brooklyn Bridge Entrance Ramp & Frankfort St [236],156,236,5.998528092258908
+2 Avenue Line / Brooklyn Bridge En Rp Fdr Dr / Pearl St,2 Avenue Line / Brooklyn Bridge En Rp Pearl St / Fdr Drive Entry Ramp,38,170,25.27914955418614
+2000 Cb Boundary / Centre St / Lexington Avenue Line [96],Brooklyn Brg / Brooklyn Bridge Pedestrian Path / Centre St [173],96,173,34.09436094148488
+Brooklyn Bridge Exit Ramp & Rose St [138],2000 Cb Boundary & Brooklyn Bridge Exit Ramp [237],138,237,63.18989664438938
+Frankfort St (midblock) [111],Frankfort St (midblock) [187],111,187,27.20569988439833
+Beekman St / Clark Street Line / Lexington Avenue Line,Beekman St / Clark Street Line / Park Row [239],238,239,19.129525633254755
+Frankfort St & Rose St,2000 Cb Boundary & Frankfort St [240],57,240,21.396806685430874
+2000 Cb Boundary & Frankfort St [240],Frankfort St (midblock) [241],240,241,92.32104808347025
+Brooklyn Bridge Entrance Ramp & Frankfort St [35],Frankfort St & Gold St [165],35,165,42.10244507366291
+Frankfort St & Gold St [60],Frankfort St (midblock) [166],60,166,22.78468602470549
+2000 Cb Boundary & Brooklyn Brg [157],Brooklyn Brg (midblock) [242],157,242,28.604163762037714
+Brooklyn Brg & Park Row [243],Brooklyn Brg & Brooklyn Bridge Exit Ramp [244],243,244,77.01764643229406
+Node 245,Node 246,245,246,67.0941465432335
+Node 246,Node 247,246,247,37.93432161772331
+Node 247,Node 248,247,248,69.82657616545708
+Node 248,Brooklyn Bridge En Rp Fdr Dr (midblock),248,249,270.9921500257028
+Brooklyn Brg / Brooklyn Bridge Pedestrian Path / Fdr Drive Entry Ramp [116],2 Avenue Line / 2000 Cb Boundary / Brooklyn Brg,116,130,101.47113035510974
+2000 Cb Boundary & Brooklyn Brg [67],Brooklyn Brg (midblock) [76],67,76,208.08364128266317
+Brooklyn Bridge Exit Ramp (midblock) [250],Brooklyn Bridge Exit Ramp (midblock) [251],250,251,5.568615881285128
+Brooklyn Bridge Exit Ramp (midblock) [251],Brooklyn Bridge Exit Ramp (midblock) [252],251,252,5.568615849837146
+Brooklyn Bridge Exit Ramp (midblock) [252],Brooklyn Bridge Exit Ramp (midblock) [253],252,253,5.568615871588624
+Brooklyn Bridge Exit Ramp (midblock) [253],Brooklyn Bridge Exit Ramp (midblock) [254],253,254,5.56861585587157
+Brooklyn Bridge Exit Ramp (midblock) [254],Brooklyn Bridge Exit Ramp (midblock) [255],254,255,5.568615875330907
+Brooklyn Bridge Exit Ramp (midblock) [255],Brooklyn Bridge Exit Ramp (midblock) [256],255,256,5.568615871755449
+Brooklyn Bridge Exit Ramp (midblock) [256],Brooklyn Bridge Exit Ramp (midblock) [257],256,257,5.568615859055444
+Brooklyn Bridge Exit Ramp (midblock) [257],Node 258,257,258,5.56861586508854
+Node 258,Node 259,258,259,5.568615851089143
+Node 259,Node 260,259,260,5.568603824584954
+Node 260,Brooklyn Bridge Exit Ramp (midblock) [261],260,261,5.568603823627418
+Brooklyn Bridge Exit Ramp (midblock) [261],Brooklyn Bridge Exit Ramp (midblock) [262],261,262,5.568603791387463
+Brooklyn Bridge Exit Ramp (midblock) [262],Brooklyn Bridge Exit Ramp (midblock) [263],262,263,5.568603833212734
+Brooklyn Bridge Exit Ramp (midblock) [263],Brooklyn Bridge Exit Ramp (midblock) [264],263,264,5.568603810635767
+Brooklyn Bridge Exit Ramp (midblock) [264],Brooklyn Bridge Exit Ramp (midblock) [265],264,265,5.568603801943297
+Brooklyn Bridge Exit Ramp (midblock) [265],Brooklyn Bridge Exit Ramp (midblock) [266],265,266,5.568603832386779
+Brooklyn Bridge Exit Ramp (midblock) [266],Brooklyn Bridge Exit Ramp (midblock) [267],266,267,5.568603816439284
+Brooklyn Bridge Exit Ramp (midblock) [20],Brooklyn Bridge Exit Ramp (midblock) [267],20,267,5.568603793671953
+Brooklyn Brg & Brooklyn Bridge Exit Ramp [115],2000 Cb Boundary & Brooklyn Brg [268],115,268,66.25058018738089
+2 Avenue Line / Brooklyn Brg / Pearl St [62],2000 Cb Boundary & Brooklyn Brg [268],62,268,31.95138565584722
+Brooklyn Brg & Park Row [69],Brooklyn Brg (midblock) [71],69,71,22.89623165464122
+2000 Cb Boundary / Brooklyn Brg / Brooklyn Bridge Pedestrian Path [137],Brooklyn Brg (midblock) [168],137,168,32.53185660190805
+Brooklyn Brg & Brooklyn Bridge Pedestrian Path [172],Brooklyn Brg / Brooklyn Bridge Exit Ramp / Brooklyn Bridge Pedestrian Path [269],172,269,73.71418205059923
+Brooklyn Brg (midblock) [114],Brooklyn Brg & Brooklyn Bridge Exit Ramp [177],114,177,38.231112540686745
+Brooklyn Brg (midblock) [242],Brooklyn Brg & Brooklyn Bridge Exit Ramp [244],242,244,81.61463832662278
+Node 167,2000 Cb Boundary & Fdr Drive Nb En Brooklyn Br [270],167,270,160.15849686982483
+Node 0,Node 271,0,271,60.81036513212774
+Node 271,Node 272,271,272,61.088279808510805
+Node 272,Node 273,272,273,61.18449454678376
+Node 273,Node 274,273,274,61.09313198276845
+Node 274,Liberty Pl & Maiden Ln,274,275,60.80850849605525
+Broadway / John St / Lexington Avenue Line,Broadway / Dey St / Lexington Avenue Line,1,276,36.44363758708667
+Broadway / Dey St / Lexington Avenue Line,Node 277,276,277,1286.6687826021125
+Ann St & Theater Aly,Ann St / Nassau St / Nassau Street Line,133,135,134.45883929376322
+8 Avenue Line / Church St / Clark Street Line,Broadway / Broadway Line / Clark Street Line,181,278,513.286511263617
+Ann St / Nassau St / Nassau Street Line,Beekman St / Clark Street Line / Nassau St,135,279,687.0499412317282
+Clark Street Line / John St / William St,Node 280,184,280,272.5879347875702
+Ann St / Clark Street Line / William St,8 Avenue Line / Clark Street Line / Fulton St,8,281,160.96730631765658
+8 Avenue Line / Dutch St / Fulton St,8 Avenue Line / Clark Street Line / Fulton St,6,281,206.11346286039858
+Broadway / Broadway Line / Chambers St,Node 283,282,283,219.90144511974802
+Edens Aly & Gold St,8 Avenue Line / Fulton St / Gold St,284,285,207.82057195649026
+Ann St & Gold St,8 Avenue Line / Fulton St / Gold St,9,285,315.403060014519
+Elk St & Reade St [105],Node 283,105,283,460.6963716880088
+2000 Cb Boundary / Centre St / Chambers St,Chambers St & Elk St,97,286,244.3509012361873
+2000 Cb Boundary & Gold St [287],2000 Cb Boundary & Gold St [288],287,288,15.007995168431643
+2000 Cb Boundary & Gold St [288],2000 Cb Boundary & Gold St [289],288,289,15.007995136926619
+2000 Cb Boundary & Gold St [289],Node 290,289,290,15.007995152872212
+Node 290,Node 291,290,291,15.007995144452092
+Node 291,Node 292,291,292,15.007995159004535
+Node 292,Node 293,292,293,15.007995148423344
+Node 293,Node 294,293,294,15.007995133770763
+Node 294,Node 295,294,295,15.00797215703094
+Node 295,Node 296,295,296,15.007972138657786
+Node 296,Node 297,296,297,15.007972160047789
+Node 297,Node 298,297,298,15.007972137362438
+Node 298,Brooklyn Bridge Entrance Ramp & Gold St [299],298,299,15.007972145174456
+Brooklyn Bridge Entrance Ramp & Gold St [299],Brooklyn Bridge Entrance Ramp & Gold St [300],299,300,15.007972151828199
+Brooklyn Bridge Entrance Ramp & Gold St [36],Brooklyn Bridge Entrance Ramp & Gold St [300],36,300,15.007972135193489
+Brooklyn Bridge Entrance Ramp & Gold St [36],2000 Cb Boundary / Brooklyn Bridge Entrance Ramp / Ct Boundary,36,301,83.45278922036027
+Brooklyn Bridge Exit Ramp & Park Row [53],Brooklyn Bridge Exit Ramp & Park Row [94],53,94,18.3118886798492
+Duane St / Lafayette St / Lexington Avenue Line,Node 106,99,106,453.2617249471088
+Centre St / Duane St / St Andrews Plz,1990 Ct Boundary & Duane St,104,139,45.15451552285914
+2000 Cb Boundary & Madison St,Node 303,302,303,801.3018133991883
+2000 Cb Boundary / Brooklyn Brg / Brooklyn Bridge Pedestrian Path [137],Brooklyn Brg / Brooklyn Bridge Exit Ramp / Brooklyn Bridge Pedestrian Path [304],137,304,55.41338181799802
+2 Avenue Line / Brooklyn Bridge En Rp Fdr Dr / Pearl St,Brooklyn Bridge En Rp Fdr Dr / Brooklyn Bridge En Rp Pearl St / Brooklyn Bridge Entrance Ramp [305],38,305,1788.6425884096852
+2 Avenue Line / Brooklyn Brg / Pearl St [72],2 Avenue Line / Brooklyn Bridge En Rp Pearl St / Fdr Drive Entry Ramp,72,170,30.69653162535432
+Brooklyn Brg / Brooklyn Bridge Pedestrian Path / Park Row [306],Brooklyn Brg & Park Row [307],306,307,24.045761728665727
+Brooklyn Brg / Brooklyn Bridge Pedestrian Path / Centre St [92],Brooklyn Brg (midblock) [308],92,308,42.092529126950616
+Frankfort St / Gold St / Rose St,Frankfort St (midblock) [109],56,109,82.07768743697767
+Frankfort St (midblock) [111],Frankfort St (midblock) [309],111,309,29.839967007784733
+Brooklyn Brg (midblock) [310],Node 311,310,311,118.98518526464227
+Node 311,Node 312,311,312,18.91358606858647
+Node 312,Node 313,312,313,18.913586118494866
+Node 313,Node 314,313,314,18.913586128565427
+Node 314,Node 315,314,315,18.913586108858095
+Node 315,Node 316,315,316,18.913586076620803
+Node 316,Node 317,316,317,18.913586081534028
+Node 317,Node 318,317,318,18.913586136228766
+Brooklyn Brg & Park Row [68],Node 318,68,318,202.96111002481555
+8 Avenue Line / Barclay St / Church St,Node 319,180,319,264.872653437373
+Maiden Ln / Nassau St / Nassau Street Line,Liberty Pl & Maiden Ln,80,275,111.38680635743144
+8 Avenue Line / Church St / Murray St,Node 320,2,320,418.1145969938156
+Node 83,Edens Aly & Gold St,83,284,72.96743435647498
+District Boundary / Gold St / Spruce St,Spruce St & William St,95,321,376.36009270385296
+2000 Cb Boundary / Centre St / Chambers St,1990 Ct Boundary / Centre St / Lafayette St,97,98,224.9590190780487
+District Boundary / Gold St / Spruce St,2000 Cb Boundary & Gold St [287],95,287,113.10451051091381
+8 Avenue Line / Fulton St / Ryders Aly,2010 Cb Boundary / 8 Avenue Line / District Boundary,84,203,77.01314888638946
+Brooklyn Bridge Entrance Ramp (midblock) [207],2000 Cb Boundary / Brooklyn Bridge Entrance Ramp / Ct Boundary,207,301,61.4405943779331
+1990 Ct Boundary / Centre St / Lafayette St,Elk St & Reade St [158],98,158,254.44366982320003
+2000 Cb Boundary / Brooklyn Bridge Exit Ramp / Fdr Drive Nb En Brooklyn Br,2000 Cb Boundary & Brooklyn Bridge Exit Ramp [322],34,322,82.00716745618472
+2 Avenue Line / Brooklyn Bridge En Rp Fdr Dr / Pearl St,Brooklyn Bridge En Rp Fdr Dr (midblock),38,249,76.15486908517401
+Brooklyn Bridge Exit Ramp & Rose St [79],Brooklyn Bridge Exit Ramp & Rose St [138],79,138,63.4048131230792
+Cardinal Hayes Pl & Pearl St,Node 323,159,323,109.3628666309607
+Brooklyn Bridge Exit Ramp & Rose St [138],2000 Cb Boundary & Brooklyn Bridge Exit Ramp [324],138,324,34.55273545527612
+Brooklyn Bridge Exit Ramp (midblock) [325],Brooklyn Bridge Exit Ramp (midblock) [326],325,326,7.053802230762772
+Brooklyn Bridge Exit Ramp (midblock) [326],Brooklyn Bridge Exit Ramp (midblock) [327],326,327,7.053802194219012
+Brooklyn Bridge Exit Ramp (midblock) [327],Brooklyn Bridge Exit Ramp (midblock) [328],327,328,7.05380220292251
+Brooklyn Bridge Exit Ramp (midblock) [328],Brooklyn Bridge Exit Ramp (midblock) [329],328,329,7.053802218360088
+Brooklyn Bridge Exit Ramp (midblock) [329],Brooklyn Bridge Exit Ramp (midblock) [330],329,330,7.053802225941621
+Brooklyn Bridge Exit Ramp (midblock) [330],Node 331,330,331,7.0538022143628
+Node 331,Node 332,331,332,7.053802182610345
+Node 332,Node 333,332,333,7.053810216128581
+Node 333,2000 Cb Boundary / Ave Of The Finest / Brooklyn Bridge Exit Ramp [334],333,334,7.0538101819105155
+2000 Cb Boundary / Ave Of The Finest / Brooklyn Bridge Exit Ramp [334],2000 Cb Boundary / Ave Of The Finest / Brooklyn Bridge Exit Ramp [335],334,335,7.053810205980512
+2000 Cb Boundary / Ave Of The Finest / Brooklyn Bridge Exit Ramp [335],2000 Cb Boundary / Ave Of The Finest / Brooklyn Bridge Exit Ramp [336],335,336,7.053810196944362
+2000 Cb Boundary / Ave Of The Finest / Brooklyn Bridge Exit Ramp [336],2000 Cb Boundary / Ave Of The Finest / Brooklyn Bridge Exit Ramp [337],336,337,7.053810184800661
+2000 Cb Boundary / Ave Of The Finest / Brooklyn Bridge Exit Ramp [337],2000 Cb Boundary / Ave Of The Finest / Brooklyn Bridge Exit Ramp [338],337,338,7.053810213217418
+2000 Cb Boundary / Ave Of The Finest / Brooklyn Bridge Exit Ramp [154],2000 Cb Boundary / Ave Of The Finest / Brooklyn Bridge Exit Ramp [338],154,338,7.053810176175912
+Park Row (midblock) [162],Connector & Park Row [205],162,205,290.8040745863449
+Frankfort St (midblock) [61],Ct Boundary & Frankfort St,61,110,24.280373915221293
+Frankfort St & Gold St [165],2000 Cb Boundary & Gold St [287],165,287,216.05577763375075
+2000 Cb Boundary & Brooklyn Brg [113],Brooklyn Brg & Brooklyn Bridge Exit Ramp [177],113,177,207.8916446939893
+Brooklyn Brg & Rose St,Brooklyn Bridge Exit Ramp & Rose St [79],40,79,25.61278948113567
+Brooklyn Brg / Brooklyn Bridge Entrance Ramp / Rose St [66],Brooklyn Brg & Ct Boundary,66,169,79.21173706831924
+Brooklyn Brg & Brooklyn Bridge Exit Ramp [244],Brooklyn Brg / Brooklyn Bridge Exit Ramp / Brooklyn Bridge Pedestrian Path [304],244,304,84.63377508502835
+Brooklyn Brg / Brooklyn Bridge Exit Ramp / Brooklyn Bridge Pedestrian Path [269],Brooklyn Brg & Brooklyn Bridge Pedestrian Path [339],269,339,757.9718346143251
+Brooklyn Brg / Brooklyn Bridge Pedestrian Path / Park Row [127],Brooklyn Brg / Brooklyn Bridge Pedestrian Path / Park Row [306],127,306,36.14331054566379
+Brooklyn Brg / Brooklyn Bridge Entrance Ramp / Rose St [66],2000 Cb Boundary & Brooklyn Bridge Entrance Ramp,66,340,12.349209320766015
+Brooklyn Brg & Brooklyn Bridge Exit Ramp [177],Brooklyn Brg / Brooklyn Bridge Exit Ramp / Brooklyn Bridge Pedestrian Path [269],177,269,42.26050409830056
+Ann St / Broadway / Lexington Avenue Line,8 Avenue Line / Broadway / Fulton St,54,134,897.2264042553336
+Liberty St / Nassau St / Nassau Street Line,Liberty Pl & Liberty St,132,341,95.26408896493082
+8 Avenue Line / Church St / Murray St,8 Avenue Line / Church St / Clark Street Line,2,181,229.03968200857776
+Broadway / Broadway Line / Chambers St,Node 342,282,342,530.1134262346218
+Node 280,Edens Aly & Gold St,280,284,215.69840379634795
+8 Avenue Line / Clark Street Line / Fulton St,8 Avenue Line / Fulton St / Gold St,281,285,306.6650010936658
+Elk St & Reade St [158],Chambers St & Elk St,158,286,221.1489973836512
+2000 Cb Boundary / Brooklyn Brg / Brooklyn Bridge Pedestrian Path [39],Brooklyn Brg / Brooklyn Bridge Entrance Ramp / Rose St [66],39,66,17.54834292964587
+Ave Of The Finest / Madison St / Rose St,2000 Cb Boundary & Madison St,100,302,241.93436952319084
+Ann St / Broadway / Lexington Avenue Line,Ann St (midblock),54,343,69.25537659756188
+Beekman St / Clark Street Line / Park Row [4],Beekman St / Clark Street Line / Park Row [239],4,239,20.62537130974389
+2000 Cb Boundary & Pearl St,Cardinal Hayes Pl & Pearl St,102,159,60.29251962409652
+Brooklyn Bridge Exit Ramp (midblock) [250],2000 Cb Boundary & Brooklyn Bridge Exit Ramp [324],250,324,81.19352262541587
+Brooklyn Bridge En Rp Fdr Dr / Brooklyn Bridge En Rp Pearl St / Brooklyn Bridge Entrance Ramp [305],Brooklyn Bridge En Rp Pearl St (midblock),305,344,87.53997416974673
+Brooklyn Bridge Entrance Ramp & Frankfort St [155],2000 Cb Boundary & Frankfort St [345],155,345,94.50936018609191
+Brooklyn Bridge En Rp Fdr Dr / Brooklyn Bridge En Rp Pearl St / Brooklyn Bridge Entrance Ramp [305],Brooklyn Bridge En Rp Fdr Dr / Brooklyn Bridge En Rp Pearl St / Brooklyn Bridge Entrance Ramp [346],305,346,31.429155981317642
+Brooklyn Bridge En Rp Fdr Dr / Brooklyn Bridge En Rp Pearl St / Brooklyn Bridge Entrance Ramp [346],Brooklyn Bridge Entrance Ramp & Frankfort St [347],346,347,31.875479000437014
+Brooklyn Bridge Entrance Ramp & Frankfort St [164],Brooklyn Bridge Entrance Ramp & Frankfort St [347],164,347,15.936724370016616
+Brooklyn Brg & Park Row [70],Brooklyn Brg / Brooklyn Bridge Pedestrian Path / Park Row [306],70,306,36.910505572860785
+Brooklyn Brg & Park Row [243],Brooklyn Brg & Park Row [307],243,307,12.869332405248253
+2 Avenue Line / Brooklyn Brg / Pearl St [62],2 Avenue Line / 2000 Cb Boundary / Brooklyn Brg,62,130,28.74757792227206
+Brooklyn Brg & Park Row [69],Brooklyn Brg (midblock) [348],69,348,97.7797800739708
+Brooklyn Brg & Park Row [70],Brooklyn Brg (midblock) [349],70,349,61.12822949722129
+Brooklyn Brg & Brooklyn Bridge Pedestrian Path [161],Brooklyn Brg & Brooklyn Bridge Pedestrian Path [339],161,339,143.48119947986584
+2000 Cb Boundary & Brooklyn Brg [350],Brooklyn Brg & Park Row [351],350,351,88.37557755899948
+Brooklyn Brg / Brooklyn Bridge Entrance Ramp / Brooklyn Bridge Pedestrian Path,2000 Cb Boundary & Brooklyn Bridge Entrance Ramp,171,340,12.401969233789139
+2000 Cb Boundary & Fdr Drive Nb En Brooklyn Br [178],Node 352,178,352,97.26907038662978
+Node 352,Node 353,352,353,84.92841086602068
+Node 353,Node 354,353,354,55.41837472953061
+Node 354,2000 Cb Boundary & Brooklyn Bridge Exit Ramp [355],354,355,68.06510887452323
+2000 Cb Boundary & Fdr Drive Nb En Brooklyn Br [270],2000 Cb Boundary & Brooklyn Bridge Exit Ramp [355],270,355,150.79150027701147
+8 Avenue Line / Barclay St / Church St,Node 356,180,356,429.860970903889
+8 Avenue Line / Broadway / Fulton St,Broadway / Dey St / Lexington Avenue Line,134,276,413.86900045658
+John St / Nassau St / Nassau Street Line,Dutch St & John St,82,357,233.20350906254274
+Barclay St / Broadway / Broadway Line,Broadway / Broadway Line / Clark Street Line,182,278,460.16462103838194
+Ann St & Theater Aly,Ann St (midblock),133,343,249.721576745315
+8 Avenue Line / Dutch St / Fulton St,Dutch St & John St,6,357,353.5675005461742
+8 Avenue Line / Fulton St / Nassau St,Ann St / Nassau St / Nassau Street Line,7,135,165.84548269872738
+2000 Cb Boundary / Broadway / Broadway Line,Broadway / Broadway Line / Clark Street Line,185,278,905.2423657216722
+Node 3,Broadway / Broadway Line / City Hall Park Greenway,3,358,523.3125117465812
+Broadway / Broadway Line / Chambers St,Broadway / Broadway Line / City Hall Park Greenway,282,358,484.63470179786015
+Beekman St / Clark Street Line / Theater Aly,Beekman St / Clark Street Line / Nassau St,5,279,127.28795154363429
+8 Avenue Line / Fulton St / Ryders Aly,8 Avenue Line / Fulton St / Gold St,84,285,93.6830975621262
+Brooklyn Brg / Brooklyn Bridge Pedestrian Path / Park Row [59],Brooklyn Brg / Brooklyn Bridge Pedestrian Path / Park Row [306],59,306,31.135328142323612
+2000 Cb Boundary & Brooklyn Bridge Exit Ramp [19],2000 Cb Boundary & Brooklyn Bridge Exit Ramp [359],19,359,22.55709017405795
+2000 Cb Boundary & Brooklyn Bridge Exit Ramp [359],2000 Cb Boundary & Brooklyn Bridge Exit Ramp [360],359,360,17.43783220534871
+2000 Cb Boundary & Brooklyn Bridge Exit Ramp [360],2000 Cb Boundary & Brooklyn Bridge Exit Ramp [361],360,361,17.257200820255093
+2000 Cb Boundary & Brooklyn Bridge Exit Ramp [41],2000 Cb Boundary & Brooklyn Bridge Exit Ramp [361],41,361,25.402967404821254
+Broadway / Broadway Line / Chambers St,Chambers St & Elk St,282,286,967.9210600459553
+Duane St / Lafayette St / Lexington Avenue Line,Node 362,99,362,211.75716189254965
+Brooklyn Bridge En Rp Fdr Dr (midblock),Node 363,249,363,482.6962378737094
+Brooklyn Bridge Exit Ramp & Park Row [93],Brooklyn Brg & Park Row [307],93,307,19.58913746862604
+2 Avenue Line / Brooklyn Bridge En Rp Pearl St / Fdr Drive Entry Ramp,Brooklyn Bridge En Rp Pearl St (midblock),170,344,1007.1066602592416
+Frankfort St / Gold St / Rose St,2000 Cb Boundary & Frankfort St [345],56,345,21.92873118852364
+Brooklyn Bridge Entrance Ramp & Frankfort St [164],Frankfort St (midblock) [241],164,241,53.23942333870444
+Brooklyn Bridge Entrance Ramp & Frankfort St [155],Frankfort St & Gold St [186],155,186,48.4054397390133
+Brooklyn Brg & Park Row [307],Brooklyn Brg & Park Row [351],307,351,14.508494433772459
+Brooklyn Brg & Park Row [69],Brooklyn Brg / Brooklyn Bridge Pedestrian Path / Park Row [306],69,306,26.37410351453589
+Brooklyn Bridge Entrance Ramp & Frankfort St [164],Frankfort St (midblock) [309],164,309,171.31296672564199
+Frankfort St & Rose St,Frankfort St (midblock) [163],57,163,78.23872189665511
+Brooklyn Bridge Exit Ramp & Rose St [79],2000 Cb Boundary & Brooklyn Bridge Exit Ramp [364],79,364,36.52155228086679
+2000 Cb Boundary & Brooklyn Bridge Exit Ramp [364],2000 Cb Boundary & Brooklyn Bridge Exit Ramp [365],364,365,20.475440141126658
+2000 Cb Boundary & Brooklyn Bridge Exit Ramp [365],2000 Cb Boundary & Brooklyn Bridge Exit Ramp [366],365,366,14.949408080093892
+Brooklyn Brg (midblock) [168],Brooklyn Brg (midblock) [348],168,348,70.69815981079009
+Brooklyn Brg & Fdr Drive Entry Ramp,Brooklyn Brg / Brooklyn Bridge Pedestrian Path / Fdr Drive Entry Ramp [116],73,116,30.507046533356483
+Brooklyn Brg (midblock) [77],Node 367,77,367,59.899468136660225
+Brooklyn Brg (midblock) [74],Node 367,74,367,317.67126360035627
+2000 Cb Boundary / Brooklyn Brg / Brooklyn Bridge Pedestrian Path [39],Brooklyn Brg / Brooklyn Bridge Entrance Ramp / Brooklyn Bridge Pedestrian Path,39,171,35.58609869709167
+Brooklyn Brg & Brooklyn Bridge Pedestrian Path [128],Brooklyn Brg / Brooklyn Bridge Exit Ramp / Brooklyn Bridge Pedestrian Path [304],128,304,152.75668530009153
+Beekman St & William St,Spruce St & William St,85,321,507.20317752751123
+Node 323,Cardinal Hayes Pl & St Andrews Plz,323,368,484.2683189355204
+Beekman St & District Boundary,Node 370,369,370,262.86678036357904
+Cardinal Hayes Pl & St Andrews Plz,2010 Cb Boundary & St Andrews Plz,368,371,271.5954409580137
+Beekman St & District Boundary,Beekman St / Cliff St / District Boundary,369,372,19.13598940882505
+2 Avenue Line / Dover St / Fdr Drive Exit 2 Nb,District Boundary & Frankfort St,37,373,437.27292274157617
+Brooklyn Brg / Brooklyn Bridge Pedestrian Path / Fdr Drive Entry Ramp [116],Node 374,116,374,635.3325371066273
+Brooklyn Brg & Fdr Drive Entry Ramp,Node 375,73,375,330.2255195207519
+Brooklyn Brg / Brooklyn Bridge Pedestrian Path / Centre St [92],2010 Cb Boundary / Centre St / Lexington Avenue Line,92,376,60.94833229949041
+Brooklyn Brg / Brooklyn Bridge Pedestrian Path / Centre St [173],2010 Cb Boundary / Centre St / Lexington Avenue Line,173,376,167.48645809485305
+Centre St / Lexington Avenue Line / Park Row,Park Row (midblock) [377],206,377,85.3021130896322
+Brooklyn Brg / Brooklyn Bridge Pedestrian Path / Centre St [92],City Hall Park Greenway (midblock) [378],92,378,81.52311968427387
+City Hall Park Greenway (midblock) [378],City Hall Park Greenway (midblock) [379],378,379,34.339631840225955
+City Hall Park Greenway (midblock) [379],Node 380,379,380,28.82990587922
+Node 380,Node 381,380,381,81.54310117249845
+Node 381,Node 382,381,382,33.37610385913535
+Node 382,Node 383,382,383,128.7763674062167
+Node 383,Node 384,383,384,126.41722257705916
+Broadway / Broadway Line / City Hall Park Greenway,Node 384,358,384,197.1291033924386
+2010 Cb Boundary & Brooklyn Brg,Brooklyn Bridge Pedestrian Path (midblock) [385],176,385,51.80770970237751
+Brooklyn Bridge Pedestrian Path (midblock) [385],Brooklyn Brg & Nassau Street Line [386],385,386,49.40014796356114
+Brooklyn Brg (midblock) [308],Brooklyn Brg & Nassau Street Line [387],308,387,50.42524277398676
+Brooklyn Brg (midblock) [349],Brooklyn Brg & Nassau Street Line [387],349,387,145.14707198103574
+2000 Cb Boundary / Brooklyn Brg / Brooklyn Bridge Pedestrian Path [58],Brooklyn Brg / Brooklyn Bridge Pedestrian Path / Nassau Street Line,58,388,265.6509964626267
+Brooklyn Brg & Nassau Street Line [386],Brooklyn Brg & Nassau Street Line [389],386,389,31.330344543285392
+2000 Cb Boundary & Brooklyn Brg [350],Brooklyn Brg & Nassau Street Line [389],350,389,80.42950879578672
+Connector & Park Row [390],Connector & Park Row [391],390,391,9.3261568477321
+Connector & Park Row [391],Connector & Park Row [392],391,392,9.326156856026941
+Connector & Park Row [392],Connector & Park Row [393],392,393,9.326156825742538
+Connector & Park Row [393],Connector & Park Row [394],393,394,9.32615684870317
+Connector & Park Row [394],Node 395,394,395,9.326156894724305
+Node 395,Node 396,395,396,9.326156844468985
+Node 396,Node 397,396,397,9.326156834732236
+Node 397,Node 398,397,398,2.504588439685009
+Node 398,Node 399,398,399,2.5045884571988353
+Node 399,Node 400,399,400,2.50458841696841
+Node 400,Node 401,400,401,2.504588422944832
+Node 401,Node 402,401,402,2.5045884889343517
+Node 402,Node 403,402,403,2.5045884125075193
+Node 403,Node 404,403,404,2.504588438542737
+Node 404,Node 405,404,405,4.332765514834273
+Node 405,Node 406,405,406,4.332765510781748
+Node 406,Node 407,406,407,4.332765501862284
+Node 407,Node 408,407,408,4.332765519927459
+Node 408,Node 409,408,409,4.332765516543817
+Node 409,Node 410,409,410,4.33276550634475
+Node 410,Node 411,410,411,4.332765517102897
+Node 411,Node 412,411,412,4.332765514499801
+Node 412,Node 413,412,413,4.332765502993136
+Node 413,Connector & Lexington Avenue Line [414],413,414,4.3327655190071654
+Connector & Lexington Avenue Line [414],Connector & Lexington Avenue Line [415],414,415,4.332765515963996
+Connector & Lexington Avenue Line [415],Connector & Lexington Avenue Line [416],415,416,4.332765506651386
+Connector & Lexington Avenue Line [416],Connector & Lexington Avenue Line [417],416,417,4.332765514665613
+Connector & Lexington Avenue Line [417],Connector & Lexington Avenue Line [418],417,418,4.332765514388136
+Connector & Lexington Avenue Line [418],Connector & Lexington Avenue Line [419],418,419,4.33276552577263
+Connector & Lexington Avenue Line [419],Connector & Lexington Avenue Line [420],419,420,4.332765510258707
+Connector & Lexington Avenue Line [420],Connector & Lexington Avenue Line [421],420,421,4.33276550552817
+Connector & Lexington Avenue Line [421],Connector & Lexington Avenue Line [422],421,422,4.332765526361104
+Connector & Lexington Avenue Line [422],Connector & Lexington Avenue Line [423],422,423,4.3327655099253715
+Connector & Lexington Avenue Line [423],Connector & Lexington Avenue Line [424],423,424,4.866845268570941
+Connector & Lexington Avenue Line [424],Connector & Lexington Avenue Line [425],424,425,4.866845237586597
+Connector & Lexington Avenue Line [425],Connector & Lexington Avenue Line [426],425,426,4.866845214438387
+Connector & Lexington Avenue Line [426],Connector & Lexington Avenue Line [427],426,427,4.866845267634337
+Connector & Lexington Avenue Line [427],Connector & Lexington Avenue Line [428],427,428,4.866845226042718
+Connector & Lexington Avenue Line [428],Connector & Lexington Avenue Line [429],428,429,4.866845238398034
+Connector & Lexington Avenue Line [429],Connector & Park Row [430],429,430,4.866845232545308
+Connector & Park Row [430],Connector & Park Row [431],430,431,4.866833230395511
+Connector & Park Row [431],Connector & Park Row [432],431,432,4.866833193591132
+Connector & Park Row [432],Connector & Park Row [433],432,433,4.866833179492766
+Connector & Park Row [433],Connector & Park Row [434],433,434,4.866833226773417
+Connector & Park Row [434],Connector & Park Row [435],434,435,4.866833203573868
+Connector & Park Row [435],Connector & Park Row [436],435,436,4.866833188818023
+Connector & Park Row [205],Connector & Park Row [436],205,436,4.866833186807067
+Connector & Park Row [390],Connector & Park Row [437],390,437,7.096535697083555
+Connector & Park Row [437],Connector & Park Row [438],437,438,7.096535683673843
+Connector & Park Row [438],Connector & Park Row [439],438,439,7.096535665787856
+Connector & Park Row [439],Connector & Park Row [440],439,440,7.096535665834548
+Connector & Park Row [440],Lexington Avenue Line (midblock) [441],440,441,7.096535683056409
+Lexington Avenue Line (midblock) [441],Lexington Avenue Line (midblock) [442],441,442,7.096535685455462
+Lexington Avenue Line (midblock) [442],Lexington Avenue Line (midblock) [443],442,443,7.096535651023162
+Lexington Avenue Line (midblock) [443],Lexington Avenue Line (midblock) [444],443,444,7.096536630376665
+Lexington Avenue Line (midblock) [444],Lexington Avenue Line (midblock) [445],444,445,7.096536629377416
+Lexington Avenue Line (midblock) [445],Lexington Avenue Line (midblock) [446],445,446,7.0965366081938495
+Lexington Avenue Line (midblock) [446],Lexington Avenue Line (midblock) [447],446,447,7.096536618912961
+Lexington Avenue Line (midblock) [447],Lexington Avenue Line & Park Row [448],447,448,7.096536611536357
+Lexington Avenue Line & Park Row [448],Lexington Avenue Line & Park Row [449],448,449,7.09653663211835
+Lexington Avenue Line & Park Row [107],Lexington Avenue Line & Park Row [449],107,449,7.096536592173254
+Barclay St / Broadway / Broadway Line,Connector & Park Row [390],182,390,118.29853168005128
+Park Row (midblock) [162],Park Row (midblock) [450],162,450,55.42339940320634
+Beekman St / Clark Street Line / Park Row [4],Park Row (midblock) [450],4,450,243.7381417110176
+Lexington Avenue Line & Park Row [107],Lexington Avenue Line & Park Row [451],107,451,27.807226317559365
+Beekman St / Clark Street Line / Lexington Avenue Line,Lexington Avenue Line & Park Row [451],238,451,113.98219865525228
+Park Row (midblock) [108],Beekman St / Clark Street Line / Park Row [239],108,239,234.17352064029058
+Brooklyn Brg & Brooklyn Bridge Pedestrian Path [129],Brooklyn Brg / Brooklyn Bridge Pedestrian Path / Nassau Street Line,129,388,130.42164807068838
+Park Row (midblock) [377],Park Row (midblock) [452],377,452,6.8869696331406445
+Park Row (midblock) [452],Park Row (midblock) [453],452,453,6.886969624360914
+Park Row (midblock) [453],Park Row (midblock) [454],453,454,6.8869696226903985
+Park Row (midblock) [454],Park Row (midblock) [455],454,455,6.886969628769599
+Park Row (midblock) [455],Park Row (midblock) [456],455,456,6.886969633196109
+Park Row (midblock) [456],Node 457,456,457,6.886969614297136
+Node 457,Brooklyn Brg & Nassau Street Line [458],457,458,6.886969610489686
+Brooklyn Brg & Nassau Street Line [458],Brooklyn Brg & Nassau Street Line [459],458,459,6.88698940222263
+Brooklyn Brg & Nassau Street Line [459],Brooklyn Brg & Nassau Street Line [460],459,460,6.886989385134062
+Brooklyn Brg & Nassau Street Line [460],Brooklyn Brg & Nassau Street Line [461],460,461,6.886989392455493
+Brooklyn Brg & Nassau Street Line [461],Nassau Street Line & Park Row [462],461,462,6.886989379889173
+Nassau Street Line & Park Row [462],Nassau Street Line & Park Row [463],462,463,6.886989400193748
+Nassau Street Line & Park Row [463],Nassau Street Line & Park Row [464],463,464,6.886989378013473
+Nassau Street Line & Park Row [464],Nassau Street Line & Park Row [465],464,465,6.886989386765163
+Nassau Street Line & Park Row [465],Nassau Street Line & Park Row [466],465,466,11.523666624106069
+Nassau Street Line & Park Row [466],Nassau Street Line & Park Row [467],466,467,11.523666607368293
+Nassau Street Line & Park Row [467],Nassau Street Line & Park Row [468],467,468,11.523666590706974
+Nassau Street Line & Park Row [468],Park Row (midblock) [469],468,469,11.523666631380427
+Park Row (midblock) [469],Park Row (midblock) [470],469,470,11.523666602551016
+Park Row (midblock) [470],Park Row (midblock) [471],470,471,11.523666582288394
+Park Row (midblock) [471],Park Row (midblock) [472],471,472,11.523666604490945
+Park Row (midblock) [190],Park Row (midblock) [472],190,472,1.1867334281832742
+Brooklyn Brg (midblock) [473],Brooklyn Brg (midblock) [474],473,474,5.498490853475884
+Brooklyn Brg (midblock) [474],Brooklyn Brg (midblock) [475],474,475,5.49849083762943
+Brooklyn Brg (midblock) [475],Brooklyn Brg (midblock) [476],475,476,5.498490850504125
+Brooklyn Brg (midblock) [476],Brooklyn Brg (midblock) [477],476,477,5.498490836365011
+Brooklyn Brg (midblock) [477],Brooklyn Brg (midblock) [478],477,478,5.498490840226127
+Brooklyn Brg (midblock) [478],2000 Cb Boundary / Nassau Street Line / Park Row [479],478,479,5.498490854178891
+2000 Cb Boundary / Nassau Street Line / Park Row [479],2000 Cb Boundary / Nassau Street Line / Park Row [480],479,480,5.4984908256009595
+2000 Cb Boundary / Nassau Street Line / Park Row [480],2000 Cb Boundary / Nassau Street Line / Park Row [481],480,481,5.498490748760583
+2000 Cb Boundary / Nassau Street Line / Park Row [481],Brooklyn Brg & Nassau Street Line [482],481,482,5.498490749299296
+Brooklyn Brg & Nassau Street Line [482],Brooklyn Brg & Nassau Street Line [483],482,483,5.498490752394485
+Brooklyn Brg & Nassau Street Line [483],Brooklyn Brg & Nassau Street Line [484],483,484,5.498490740198081
+Brooklyn Brg & Nassau Street Line [484],Brooklyn Brg & Nassau Street Line [485],484,485,5.498490728694622
+Brooklyn Brg & Nassau Street Line [485],Brooklyn Brg & Nassau Street Line [486],485,486,5.4984907606642075
+Brooklyn Brg & Nassau Street Line [486],Brooklyn Brg & Nassau Street Line [487],486,487,5.498490721900863
+Brooklyn Brg & Nassau Street Line [487],Brooklyn Brg & Nassau Street Line [488],487,488,6.098478113989177
+Brooklyn Brg & Nassau Street Line [488],Brooklyn Brg & Nassau Street Line [489],488,489,6.098478080886234
+Brooklyn Brg & Nassau Street Line [489],Brooklyn Brg & Nassau Street Line [490],489,490,6.098478092550781
+Brooklyn Brg & Nassau Street Line [490],Brooklyn Brg & Nassau Street Line [491],490,491,6.098478100572673
+Brooklyn Brg & Nassau Street Line [491],Brooklyn Brg & Nassau Street Line [492],491,492,6.098478097084464
+Brooklyn Brg & Nassau Street Line [492],Nassau Street Line & Park Row [493],492,493,6.098478083373332
+Nassau Street Line & Park Row [493],Nassau Street Line & Park Row [494],493,494,6.098478080084523
+Nassau Street Line & Park Row [494],Brooklyn Brg (midblock) [495],494,495,6.098477240455694
+Brooklyn Brg (midblock) [495],Brooklyn Brg (midblock) [496],495,496,6.0984772434781185
+Brooklyn Brg (midblock) [496],Brooklyn Brg (midblock) [497],496,497,6.0984772385843735
+Brooklyn Brg (midblock) [497],Brooklyn Brg (midblock) [498],497,498,6.0984772449579605
+Brooklyn Brg (midblock) [498],Brooklyn Brg (midblock) [499],498,499,6.098477235228485
+Brooklyn Brg (midblock) [499],Brooklyn Brg (midblock) [500],499,500,6.098477256917014
+Brooklyn Brg (midblock) [310],Brooklyn Brg (midblock) [500],310,500,6.098477224884681
+Ann St / Broadway / Lexington Avenue Line,Broadway Line & Vesey St,54,501,77.51211248640479
+Node 319,Broadway Line & Vesey St,319,501,413.8317920676019
+Ann St / Broadway / Lexington Avenue Line,Broadway & Broadway Line [502],54,502,114.63740927720835
+Barclay St / Broadway / Broadway Line,Broadway & Broadway Line [502],182,502,145.03462202780227
+Brooklyn Bridge Pedestrian Path & Nassau Street Line [503],Brooklyn Bridge Pedestrian Path & Nassau Street Line [504],503,504,8.681834505527437
+Brooklyn Bridge Pedestrian Path & Nassau Street Line [504],Brooklyn Bridge Pedestrian Path & Nassau Street Line [505],504,505,8.68183448667197
+Brooklyn Bridge Pedestrian Path & Nassau Street Line [505],Brooklyn Bridge Pedestrian Path & Nassau Street Line [506],505,506,8.681834508665398
+Brooklyn Bridge Pedestrian Path & Nassau Street Line [506],Brooklyn Brg & Nassau Street Line [507],506,507,8.681834496878695
+Brooklyn Brg & Nassau Street Line [507],Node 508,507,508,8.681834501023395
+Node 508,Node 509,508,509,8.6818344878243
+Node 509,Node 510,509,510,8.681834513460558
+Node 510,Node 511,510,511,8.956830013225028
+Node 511,Node 512,511,512,8.956830050936754
+Node 512,2000 Cb Boundary / Brooklyn Brg / Brooklyn Bridge Pedestrian Path [513],512,513,8.956830012480093
+2000 Cb Boundary / Brooklyn Brg / Brooklyn Bridge Pedestrian Path [513],2000 Cb Boundary / Brooklyn Brg / Brooklyn Bridge Pedestrian Path [514],513,514,8.956830023826452
+2000 Cb Boundary / Brooklyn Brg / Brooklyn Bridge Pedestrian Path [514],2000 Cb Boundary / Brooklyn Brg / Brooklyn Bridge Pedestrian Path [515],514,515,8.956830039762563
+2000 Cb Boundary / Brooklyn Brg / Brooklyn Bridge Pedestrian Path [515],2000 Cb Boundary / Brooklyn Brg / Brooklyn Bridge Pedestrian Path [516],515,516,8.956830003587813
+2000 Cb Boundary / Brooklyn Brg / Brooklyn Bridge Pedestrian Path [58],2000 Cb Boundary / Brooklyn Brg / Brooklyn Bridge Pedestrian Path [516],58,516,8.956830035118006
+Brooklyn Brg / Brooklyn Bridge Pedestrian Path / Centre St [92],Brooklyn Brg / Brooklyn Bridge Pedestrian Path / Centre St [517],92,517,5.959619794671912
+Brooklyn Brg / Brooklyn Bridge Pedestrian Path / Centre St [517],Brooklyn Brg / Brooklyn Bridge Pedestrian Path / Centre St [518],517,518,5.959619765162512
+Brooklyn Brg / Brooklyn Bridge Pedestrian Path / Centre St [518],Brooklyn Brg / Brooklyn Bridge Pedestrian Path / Centre St [519],518,519,5.959619775884527
+Brooklyn Brg / Brooklyn Bridge Pedestrian Path / Centre St [519],Brooklyn Brg / Brooklyn Bridge Pedestrian Path / Centre St [520],519,520,5.959619765923768
+Brooklyn Brg / Brooklyn Bridge Pedestrian Path / Centre St [520],Brooklyn Brg / Brooklyn Bridge Pedestrian Path / Centre St [521],520,521,5.959619792548082
+Brooklyn Brg / Brooklyn Bridge Pedestrian Path / Centre St [521],Brooklyn Brg & Brooklyn Bridge Pedestrian Path [522],521,522,5.959619777220103
+Brooklyn Brg & Brooklyn Bridge Pedestrian Path [522],Brooklyn Brg & Brooklyn Bridge Pedestrian Path [523],522,523,5.959619759990107
+Brooklyn Brg & Brooklyn Bridge Pedestrian Path [523],Brooklyn Brg & Brooklyn Bridge Pedestrian Path [524],523,524,5.959589903006068
+Brooklyn Brg & Brooklyn Bridge Pedestrian Path [524],Brooklyn Bridge Pedestrian Path (midblock) [525],524,525,5.959589897250099
+Brooklyn Bridge Pedestrian Path (midblock) [525],Brooklyn Bridge Pedestrian Path (midblock) [526],525,526,5.95958985798353
+Brooklyn Bridge Pedestrian Path (midblock) [526],Brooklyn Bridge Pedestrian Path (midblock) [527],526,527,5.959589902974879
+Brooklyn Bridge Pedestrian Path (midblock) [527],Brooklyn Bridge Pedestrian Path (midblock) [528],527,528,5.959589891379713
+Brooklyn Bridge Pedestrian Path (midblock) [528],Brooklyn Bridge Pedestrian Path (midblock) [529],528,529,5.9595898822667195
+Brooklyn Bridge Pedestrian Path (midblock) [529],Brooklyn Bridge Pedestrian Path (midblock) [530],529,530,5.9595898669256036
+Brooklyn Bridge Pedestrian Path (midblock) [530],2010 Cb Boundary & Brooklyn Bridge Pedestrian Path [531],530,531,50.858051615418475
+Brooklyn Bridge Pedestrian Path (midblock) [530],Brooklyn Bridge Pedestrian Path (midblock) [532],530,532,0.44575181234743366
+Brooklyn Bridge Pedestrian Path (midblock) [532],Brooklyn Bridge Pedestrian Path (midblock) [533],532,533,0.4457518148554617
+Brooklyn Bridge Pedestrian Path (midblock) [533],Brooklyn Bridge Pedestrian Path (midblock) [534],533,534,0.4457518046096678
+Brooklyn Bridge Pedestrian Path (midblock) [534],Brooklyn Bridge Pedestrian Path (midblock) [535],534,535,0.4457518133299084
+Brooklyn Bridge Pedestrian Path (midblock) [535],Brooklyn Bridge Pedestrian Path (midblock) [536],535,536,0.4457518237356748
+Brooklyn Bridge Pedestrian Path (midblock) [536],Brooklyn Bridge Pedestrian Path (midblock) [537],536,537,0.4457517994652122
+Brooklyn Bridge Pedestrian Path (midblock) [537],Brooklyn Bridge Pedestrian Path (midblock) [538],537,538,0.44575182034760036
+Brooklyn Bridge Pedestrian Path (midblock) [538],Brooklyn Bridge Pedestrian Path (midblock) [539],538,539,7.726898836590539
+Brooklyn Bridge Pedestrian Path (midblock) [539],Brooklyn Bridge Pedestrian Path (midblock) [540],539,540,7.726898846808135
+Brooklyn Bridge Pedestrian Path (midblock) [540],Brooklyn Bridge Pedestrian Path (midblock) [541],540,541,7.726898850800217
+Brooklyn Bridge Pedestrian Path (midblock) [541],Brooklyn Bridge Pedestrian Path & Nassau Street Line [542],541,542,7.72689885161492
+Brooklyn Bridge Pedestrian Path & Nassau Street Line [542],Brooklyn Bridge Pedestrian Path & Nassau Street Line [543],542,543,7.726898838654442
+Brooklyn Bridge Pedestrian Path & Nassau Street Line [543],Brooklyn Bridge Pedestrian Path & Nassau Street Line [544],543,544,7.72689884989282
+Brooklyn Bridge Pedestrian Path & Nassau Street Line [503],Brooklyn Bridge Pedestrian Path & Nassau Street Line [544],503,544,7.726898842201031
+Brooklyn Brg / Brooklyn Bridge Pedestrian Path / Centre St [173],Node 545,173,545,91.74933663953797
+Node 545,Node 546,545,546,8.229915910051654
+Node 546,Node 547,546,547,8.229915907260887
+Node 547,2010 Cb Boundary & Brooklyn Bridge Pedestrian Path [548],547,548,8.229915885629502
+2010 Cb Boundary & Brooklyn Bridge Pedestrian Path [548],2010 Cb Boundary & Brooklyn Bridge Pedestrian Path [549],548,549,8.229915901866223
+2010 Cb Boundary & Brooklyn Bridge Pedestrian Path [549],2010 Cb Boundary & Brooklyn Bridge Pedestrian Path [550],549,550,8.22991592426479
+2010 Cb Boundary & Brooklyn Bridge Pedestrian Path [550],2010 Cb Boundary & Brooklyn Bridge Pedestrian Path [551],550,551,8.229915904103747
+2010 Cb Boundary & Brooklyn Bridge Pedestrian Path [531],2010 Cb Boundary & Brooklyn Bridge Pedestrian Path [551],531,551,8.22991590402233
+8 Avenue Line / Broadway / Fulton St,8 Avenue Line & Fulton St,134,552,205.4128436465829
+8 Avenue Line & Fulton St,Node 553,552,553,249.48587014749677
+8 Avenue Line / Church St / Clark Street Line,Node 554,181,554,272.11732332214723
+Ann St / Clark Street Line / William St,Clark Street Line & William St [555],8,555,104.55829801309599
+Beekman St & William St,Clark Street Line & William St [555],85,555,118.43443083094364
+Beekman St / Clark Street Line / Nassau St,Beekman St & Clark Street Line,279,556,270.1089663236311
+Beekman St & William St,Beekman St & Clark Street Line,85,556,119.44161670515324
+Frankfort St (midblock) [111],District Boundary & Frankfort St,111,373,1372.5396021666809
+2010 Cb Boundary & St Andrews Plz,Nassau Street Line & St Andrews Plz [557],371,557,42.359653564929324
+1990 Ct Boundary / Centre St / Lafayette St,Nassau Street Line & St Andrews Plz [557],98,557,115.84654534492952
+2010 Cb Boundary & St Andrews Plz,Nassau Street Line & St Andrews Plz [558],371,558,212.21886301182485
+Centre St / Duane St / St Andrews Plz,Nassau Street Line & St Andrews Plz [558],104,558,97.79015847497129
+Centre St / Duane St / St Andrews Plz,Centre St & Nassau Street Line,104,559,99.17532275059514
+Node 103,Centre St & Nassau Street Line,103,559,179.04833297582312
+Beekman St / Clark Street Line / Park Row [4],Park Row (midblock) [560],4,560,977.3242165832426
+Brooklyn Brg / Park Row / Spruce St,Park Row (midblock) [560],11,560,21.89365380686917
+Beekman St / Clark Street Line / Lexington Avenue Line,Lexington Avenue Line & Park Row [561],238,561,252.17873246254527
+Lexington Avenue Line & Park Row [561],Lexington Avenue Line / Park Row / Spruce St,561,562,23.285418332355118
+Park Row (midblock) [10],Beekman St / Clark Street Line / Park Row [239],10,239,992.3239116062571
+Park Row (midblock) [10],Lexington Avenue Line / Park Row / Spruce St,10,562,28.53308616866471
+Brooklyn Brg / Park Row / Spruce St,Spruce St (midblock) [563],11,563,19.986776465469823
+Spruce St (midblock) [563],2000 Cb Boundary / Nassau St / Nassau Street Line,563,564,78.53823207644992
+Brooklyn Brg / Park Row / Spruce St,Lexington Avenue Line / Park Row / Spruce St,11,562,38.40354039845735
+Brooklyn Brg / Park Row / Spruce St,Park Row (midblock) [565],11,565,313.6294818843195
+2000 Cb Boundary / Nassau Street Line / Park Row [136],Park Row (midblock) [565],136,565,422.209501010705
+Brooklyn Brg / Park Row / Spruce St,Brooklyn Brg (midblock) [566],11,566,31.353638239228594
+Centre St / Lexington Avenue Line / Park Row,Lexington Avenue Line / Park Row / Spruce St,206,562,95.71772308043228
+Frankfort St & Rose St,2000 Cb Boundary (midblock),57,567,64.28572266279343
+Brooklyn Brg / Brooklyn Bridge Entrance Ramp / Rose St [66],2000 Cb Boundary (midblock),66,567,21.985913244415386
+2000 Cb Boundary / Broadway / Broadway Line,Broadway & Broadway Line [568],185,568,207.10317459507255
+Broadway / Broadway Line / City Hall Park Greenway,Broadway & Broadway Line [568],358,568,658.5503315240612
+Dutch St & John St,John St (midblock) [569],357,569,91.75509543049458
+8 Avenue Line / Clark Street Line / Fulton St,Clark Street Line & William St [570],281,570,242.466679827646
+Liberty St / Nassau St / Nassau Street Line,Nassau St & Nassau Street Line [571],132,571,112.43401620172166
+Maiden Ln / Nassau St / Nassau Street Line,Nassau St & Nassau Street Line [571],80,571,93.15074839740389
+2000 Cb Boundary / Nassau St / Nassau Street Line,Spruce St (midblock) [572],564,572,175.3718277821747
+Spruce St (midblock) [572],Spruce St (midblock) [573],572,573,53.19204374595919
+Spruce St & William St,Spruce St (midblock) [573],321,573,203.56310992205366
+Brooklyn Brg / Brooklyn Bridge Pedestrian Path / Park Row [59],Brooklyn Brg & Park Row [70],59,70,25.750156795247904
+Brooklyn Brg / Brooklyn Bridge Pedestrian Path / Park Row [59],Brooklyn Brg & Park Row [351],59,351,25.035114698282978
+Brooklyn Brg & Park Row [69],Brooklyn Brg / Brooklyn Bridge Pedestrian Path / Park Row [127],69,127,21.49006001654543
+Brooklyn Brg / Brooklyn Bridge Pedestrian Path / Park Row [127],Brooklyn Brg & Park Row [243],127,243,22.975474620802668
+Brooklyn Brg & Park Row [351],Brooklyn Bridge Exit Ramp & Park Row [574],351,574,21.869943364807487
+Brooklyn Bridge Exit Ramp & Park Row [93],Brooklyn Bridge Exit Ramp & Park Row [574],93,574,12.675719508307377
+Brooklyn Bridge Exit Ramp & Park Row [574],2000 Cb Boundary & Brooklyn Bridge Exit Ramp [575],574,575,74.84125852228942
+2000 Cb Boundary & Brooklyn Bridge Exit Ramp [12],2000 Cb Boundary & Brooklyn Bridge Exit Ramp [575],12,575,26.39313088018804
+Brooklyn Brg & Park Row [243],Brooklyn Bridge Exit Ramp & Park Row [576],243,576,16.074971564172603
+Brooklyn Brg & Brooklyn Bridge Exit Ramp [244],Brooklyn Bridge Exit Ramp & Park Row [576],244,576,71.57825596658162
+Brooklyn Bridge Exit Ramp & Park Row [93],Brooklyn Bridge Exit Ramp & Park Row [576],93,576,9.241428194462923
+Park Row (midblock) [577],2000 Cb Boundary & Park Row [578],577,578,183.50508510661297
+2000 Cb Boundary & Park Row [578],2000 Cb Boundary & Park Row [579],578,579,66.2843924609102
+2000 Cb Boundary & Park Row [580],2000 Cb Boundary & Park Row [581],580,581,33.476632506540604
+2000 Cb Boundary & Park Row [581],2000 Cb Boundary & Park Row [582],581,582,43.317703472791045
+2000 Cb Boundary & Park Row [582],Park Row & St Andrews Plz,582,583,27.51538702934799
+Park Row & St Andrews Plz,2000 Cb Boundary / Park Row / St Andrews Plz,583,584,11.351286457645022
+Cardinal Hayes Pl & St Andrews Plz,Park Row & St Andrews Plz,368,583,352.75575879767206
+2000 Cb Boundary & Park Row [579],Park Row (midblock) [585],579,585,28.47737682445079
+Park Row (midblock) [585],Park Row (midblock) [586],585,586,27.780343826429007
+Park Row (midblock) [586],2000 Cb Boundary & Park Row [587],586,587,38.61138970219847
+2000 Cb Boundary & Park Row [588],2000 Cb Boundary & Park Row [589],588,589,63.62788244344873
+2000 Cb Boundary & Park Row [589],2000 Cb Boundary & Park Row [590],589,590,30.897602588208763
+2000 Cb Boundary & Park Row [590],2000 Cb Boundary & Park Row [591],590,591,44.27173800848493
+2000 Cb Boundary / Park Row / St Andrews Plz,2000 Cb Boundary & Park Row [591],584,591,22.18946839973247
+2000 Cb Boundary & Park Row [580],Park Row (midblock) [592],580,592,59.031865431605446
+Brooklyn Bridge Exit Ramp & Park Row [53],Park Row (midblock) [593],53,593,63.73239515955844
+Park Row (midblock) [592],Park Row (midblock) [593],592,593,178.903163825564
+2000 Cb Boundary & Park Row [588],Park Row (midblock) [594],588,594,182.30188446580885
+Brooklyn Bridge Exit Ramp & Park Row [574],Park Row (midblock) [595],574,595,11.377713687476644
+Brooklyn Bridge Exit Ramp & Park Row [53],Park Row (midblock) [595],53,595,19.572666984734013
+Park Row (midblock) [577],Park Row (midblock) [596],577,596,51.812825377155114
+Brooklyn Bridge Exit Ramp & Park Row [576],Park Row (midblock) [597],576,597,12.293018688027598
+Park Row (midblock) [596],Park Row (midblock) [597],596,597,26.864527898536586
+Brooklyn Bridge Exit Ramp & Park Row [94],Park Row (midblock) [598],94,598,18.19195732890513
+Park Row (midblock) [594],Park Row (midblock) [598],594,598,60.54090232940594
+2000 Cb Boundary / Nassau St / Nassau Street Line,Nassau St & Nassau Street Line [599],564,599,54.637454405219465
+Beekman St / Clark Street Line / Nassau St,Nassau St & Nassau Street Line [600],279,600,151.7360687147661
+Nassau St & Nassau Street Line [599],Nassau St & Nassau Street Line [600],599,600,32.325887531712816
+John St (midblock) [569],John St (midblock) [601],569,601,19.943747164584387
+Clark Street Line / John St / William St,John St (midblock) [601],184,601,89.36811657242973
+Clark Street Line / John St / William St,Clark Street Line & William St [602],184,602,70.36990567447056
+Clark Street Line & William St [602],Clark Street Line & William St [603],602,603,28.16551627553498
+Clark Street Line & William St [570],Clark Street Line & William St [603],570,603,47.051484612419024
+Ann St & Gold St,District Boundary & Gold St,9,604,61.489953453611705
+2010 Cb Boundary / Beekman St / Gold St,District Boundary & Gold St,86,604,62.17173962953964
+Liberty Pl & Liberty St,Node 605,341,605,46.47953597325591
+Liberty Pl & Liberty St,2020 Cb Boundary & Liberty Pl,341,606,120.00334150687041
+Liberty Pl & Maiden Ln,2020 Cb Boundary & Liberty Pl,275,606,125.31714597051248
+Frankfort St & Park Row [607],Node 608,607,608,47.6101617876722
+Node 608,Node 609,608,609,6.833675611191127
+Node 609,Brooklyn Brg & Park Row [610],609,610,6.833675593538868
+Brooklyn Brg & Park Row [610],Brooklyn Brg & Park Row [611],610,611,6.833675605242884
+Brooklyn Brg & Park Row [611],Brooklyn Brg & Park Row [612],611,612,6.833675590556542
+Brooklyn Brg & Park Row [612],Brooklyn Brg & Park Row [613],612,613,6.833675574583506
+Brooklyn Brg & Park Row [613],Brooklyn Brg & Park Row [614],613,614,6.833675597142463
+Brooklyn Brg & Park Row [68],Brooklyn Brg & Park Row [614],68,614,6.833675592257809
+Brooklyn Bridge Entrance Ramp & Frankfort St [156],Frankfort St & Park Row [607],156,607,71.47812939450891
+Frankfort St & Park Row [117],Frankfort St & Park Row [607],117,607,276.5694005176143
+2 Avenue Line / Pearl St / Peck Slip,2 Avenue Line / District Boundary / Pearl St,188,615,143.30195666453753
+2 Avenue Line / Dover St / Fdr Drive Exit 2 Nb,2 Avenue Line / District Boundary / Pearl St,37,615,195.55102989523675
+Node 202,Cliff St & District Boundary,202,616,167.0756830395818
+Beekman St / Cliff St / District Boundary,Cliff St & District Boundary,372,616,97.42341534735417
+Brooklyn Bridge Exit Ramp (midblock) [250],Brooklyn Bridge Exit Ramp (midblock) [617],250,617,37.786418245297234
+Brooklyn Bridge Exit Ramp (midblock) [617],Brooklyn Bridge Exit Ramp (midblock) [618],617,618,6.807259688185587
+Brooklyn Bridge Exit Ramp (midblock) [618],Brooklyn Bridge Exit Ramp (midblock) [619],618,619,6.807259671670366
+Brooklyn Bridge Exit Ramp (midblock) [619],Brooklyn Bridge Exit Ramp (midblock) [620],619,620,6.807259685527941
+Brooklyn Bridge Exit Ramp (midblock) [620],Brooklyn Bridge Exit Ramp (midblock) [621],620,621,6.807259673789231
+Brooklyn Bridge Exit Ramp (midblock) [621],Brooklyn Bridge Exit Ramp (midblock) [622],621,622,6.807259688201073
+Brooklyn Bridge Exit Ramp (midblock) [622],Node 623,622,623,6.807259679576614
+Node 623,Node 624,623,624,6.807259683997209
+Node 624,Node 625,624,625,6.807259675103382
+Node 625,Node 626,625,626,6.8072596683559885
+Node 626,Node 627,626,627,6.807232598378703
+Node 627,Node 628,627,628,6.807232575210335
+Node 628,Node 629,628,629,6.807232587274461
+Node 629,Brooklyn Bridge Exit Ramp (midblock) [630],629,630,6.80723258528926
+Brooklyn Bridge Exit Ramp (midblock) [630],Brooklyn Bridge Exit Ramp (midblock) [631],630,631,6.807232577168439
+Brooklyn Bridge Exit Ramp (midblock) [631],Brooklyn Bridge Exit Ramp (midblock) [632],631,632,6.807232577147877
+Brooklyn Bridge Exit Ramp (midblock) [632],Brooklyn Bridge Exit Ramp (midblock) [633],632,633,6.8072325786387164
+Brooklyn Bridge Exit Ramp (midblock) [633],Brooklyn Bridge Exit Ramp (midblock) [634],633,634,6.807232583243022
+Brooklyn Bridge Exit Ramp (midblock) [325],Brooklyn Bridge Exit Ramp (midblock) [634],325,634,6.807232578583872
+2 Avenue Line / Pearl St / Peck Slip,Node 635,188,635,165.23442895349666
+Brooklyn Brg & Park Row [68],Brooklyn Brg (midblock) [636],68,636,35.42348676013659
+Brooklyn Brg (midblock) [636],Brooklyn Brg (midblock) [637],636,637,10.2530833504294
+Brooklyn Brg (midblock) [637],Brooklyn Brg (midblock) [638],637,638,10.25308335819135
+Brooklyn Brg (midblock) [638],Brooklyn Brg (midblock) [639],638,639,10.253083330725616
+Brooklyn Brg (midblock) [639],Brooklyn Brg (midblock) [640],639,640,10.253083356022092
+Brooklyn Brg (midblock) [640],Brooklyn Brg (midblock) [641],640,641,10.25308335415556
+Brooklyn Brg (midblock) [641],Brooklyn Brg (midblock) [642],641,642,10.253083340887105
+Brooklyn Brg (midblock) [642],Brooklyn Brg (midblock) [643],642,643,10.253083328031185
+Brooklyn Brg (midblock) [643],Brooklyn Brg (midblock) [644],643,644,10.25306338963974
+Brooklyn Brg (midblock) [644],Brooklyn Brg (midblock) [645],644,645,10.253063386994631
+Brooklyn Brg (midblock) [645],Brooklyn Brg (midblock) [646],645,646,10.253063366571672
+Brooklyn Brg (midblock) [646],Brooklyn Brg (midblock) [647],646,647,10.253063374241057
+Brooklyn Brg (midblock) [647],Brooklyn Brg (midblock) [648],647,648,10.253063385918379
+Brooklyn Brg (midblock) [648],Brooklyn Brg (midblock) [649],648,649,10.253063365509664
+Brooklyn Brg (midblock) [168],Brooklyn Brg (midblock) [649],168,649,10.253063363505596
+Brooklyn Brg (midblock) [566],Brooklyn Brg (midblock) [650],566,650,101.50643209717143
+Brooklyn Brg (midblock) [473],Brooklyn Brg (midblock) [650],473,650,39.110002758817245
+2000 Cb Boundary & Brooklyn Bridge Exit Ramp [322],Brooklyn Bridge Exit Ramp (midblock) [651],322,651,20.34253558231799
+Brooklyn Bridge Exit Ramp (midblock) [651],Node 652,651,652,329.453758653586
+Node 652,2000 Cb Boundary & Brooklyn Bridge Exit Ramp [653],652,653,270.0695133909097
+2000 Cb Boundary & Brooklyn Bridge Exit Ramp [653],Brooklyn Bridge Exit Ramp (midblock) [654],653,654,138.05055455921772
+Brooklyn Bridge Exit Ramp (midblock) [654],Node 655,654,655,139.04900268954148
+Brooklyn Brg & Brooklyn Bridge Exit Ramp [115],Brooklyn Bridge Exit Ramp (midblock) [656],115,656,102.06801706151047
+Brooklyn Bridge Exit Ramp (midblock) [656],Brooklyn Bridge Exit Ramp (midblock) [657],656,657,10.39643539475879
+Brooklyn Bridge Exit Ramp (midblock) [657],Node 658,657,658,242.68561976231666
+Node 658,Node 659,658,659,150.26632597827376
+2000 Cb Boundary & Brooklyn Bridge Exit Ramp [237],Node 659,237,659,77.97772398326944
+Brooklyn Bridge Entrance Ramp & Frankfort St [156],Brooklyn Bridge Entrance Ramp & Frankfort St [660],156,660,5.872651464946088
+Brooklyn Bridge Entrance Ramp & Frankfort St [660],Brooklyn Bridge Entrance Ramp & Frankfort St [661],660,661,5.872651471343534
+Brooklyn Bridge Entrance Ramp & Frankfort St [661],Brooklyn Bridge Entrance Ramp & Frankfort St [662],661,662,5.872651448567466
+Brooklyn Bridge Entrance Ramp & Frankfort St [662],Brooklyn Bridge Entrance Ramp & Frankfort St [663],662,663,5.872651459427023
+Brooklyn Bridge Entrance Ramp & Frankfort St [663],Brooklyn Bridge Entrance Ramp & Frankfort St [664],663,664,5.872651442286728
+Brooklyn Bridge Entrance Ramp & Frankfort St [664],Brooklyn Bridge Entrance Ramp & Frankfort St [665],664,665,5.872651451123585
+Brooklyn Bridge Entrance Ramp & Frankfort St [665],Node 666,665,666,5.872651458053296
+Node 666,Node 667,666,667,5.872651463321773
+Node 667,Node 668,667,668,5.872651457687026
+Node 668,Node 669,668,669,5.8726514610755745
+Node 669,Node 670,669,670,5.872651463260551
+Node 670,Node 671,670,671,5.872651428706432
+Node 671,Node 672,671,672,5.872651462092253
+Node 672,Node 673,672,673,5.872651460151681
+Node 673,Brooklyn Bridge Entrance Ramp (midblock) [674],673,674,5.872651451297325
+Brooklyn Bridge Entrance Ramp (midblock) [674],Brooklyn Bridge Entrance Ramp (midblock) [675],674,675,5.872651459024955
+Brooklyn Bridge Entrance Ramp (midblock) [675],Brooklyn Bridge Entrance Ramp (midblock) [676],675,676,5.872651451233845
+Brooklyn Bridge Entrance Ramp (midblock) [676],Brooklyn Bridge Entrance Ramp (midblock) [677],676,677,22.92969660089284
+Brooklyn Bridge Entrance Ramp & Ct Boundary,Brooklyn Bridge Entrance Ramp (midblock) [677],64,677,71.55744944392008
+2000 Cb Boundary & Brooklyn Bridge Exit Ramp [366],Brooklyn Bridge Exit Ramp (midblock) [678],366,678,1.8224308428245755
+Brooklyn Bridge Exit Ramp (midblock) [678],Brooklyn Bridge Exit Ramp (midblock) [679],678,679,4.50923141948005
+Brooklyn Bridge Exit Ramp (midblock) [679],Brooklyn Bridge Exit Ramp (midblock) [680],679,680,4.50923142559917
+Brooklyn Bridge Exit Ramp (midblock) [680],Brooklyn Bridge Exit Ramp (midblock) [681],680,681,4.509231430770278
+Brooklyn Bridge Exit Ramp (midblock) [681],Brooklyn Bridge Exit Ramp (midblock) [682],681,682,4.509231426489868
+Brooklyn Bridge Exit Ramp (midblock) [682],Brooklyn Bridge Exit Ramp (midblock) [683],682,683,4.509231421415003
+Brooklyn Bridge Exit Ramp (midblock) [683],Brooklyn Bridge Exit Ramp (midblock) [684],683,684,4.509231422407192
+Brooklyn Bridge Exit Ramp (midblock) [684],Brooklyn Bridge Exit Ramp (midblock) [685],684,685,4.509231426826632
+Brooklyn Bridge Exit Ramp (midblock) [685],Brooklyn Bridge Exit Ramp (midblock) [686],685,686,4.509231425857424
+Brooklyn Bridge Exit Ramp (midblock) [686],Node 687,686,687,4.5092314146429695
+Node 687,Brooklyn Bridge Exit Ramp (midblock) [688],687,688,4.509220109012729
+Brooklyn Bridge Exit Ramp (midblock) [688],Brooklyn Bridge Exit Ramp (midblock) [689],688,689,4.5092200919765295
+Brooklyn Bridge Exit Ramp (midblock) [689],Brooklyn Bridge Exit Ramp (midblock) [690],689,690,4.5092201051504555
+Brooklyn Bridge Exit Ramp (midblock) [690],Brooklyn Bridge Exit Ramp (midblock) [691],690,691,4.509220105950423
+Brooklyn Bridge Exit Ramp (midblock) [691],Brooklyn Bridge Exit Ramp (midblock) [692],691,692,4.509220095948928
+Brooklyn Bridge Exit Ramp (midblock) [692],Brooklyn Bridge Exit Ramp (midblock) [693],692,693,4.509220110996306
+Brooklyn Bridge Exit Ramp (midblock) [693],Brooklyn Bridge Exit Ramp (midblock) [694],693,694,4.5092200782760266
+Brooklyn Bridge Exit Ramp (midblock) [694],Brooklyn Bridge Exit Ramp (midblock) [695],694,695,4.509220110191491
+Brooklyn Bridge Exit Ramp (midblock) [250],Brooklyn Bridge Exit Ramp (midblock) [695],250,695,4.509220092221095
+Node 696,Fdr Drive Exit 2 Nb (midblock),696,697,494.6269721799678
+2 Avenue Line / Dover St / Fdr Drive Exit 2 Nb,Fdr Drive Exit 2 Nb (midblock),37,697,59.025701406959044
+Park Row & St Andrews Plz,Park Row (midblock) [698],583,698,119.8476676148024
+Park Row (midblock) [698],Node 699,698,699,408.08861192920415
+2000 Cb Boundary / Park Row / St Andrews Plz,Park Row (midblock) [700],584,700,124.59651879822951
+Park Row (midblock) [700],Node 701,700,701,400.07292141049567
+2000 Cb Boundary & Park Row [587],Park Row (midblock) [702],587,702,119.64440597852919
+Park Row (midblock) [702],Node 703,702,703,397.1310614438767
